@@ -1,0 +1,8 @@
+Kaizen Trim
+
+VW Golf Jetta Mk6 Anahtarı Boş Düğme Anahtarı Adaptörü
+
+Özet:
+VW Golf Mk6'nın iç aydınlatmasına uyacak şekilde kırmızı arka aydınlatmalı 16 mm mandallı düğmeye uyacak şekilde boş adaptörü değiştirin. Geceleri şehir dışında sürüş sırasında LED ışık çubuğunu veya sürüş ışıklarını etkinleştirmek için tasarlanmıştır.Kullandığım Sparkfun mandallı metal buton: https://www.sparkfun.com/products/11971 veya https://core-electronics.com.au/rugged-metal-silver-finish-pushbutton-16mm-6v-rgb-latching.html (kırmızı, mavi, yeşil, beyaz ve sarı arka ışık seçenekleriyle gümüş kaplamayla gelir)Aynı zamanda uyması gereken Adafruit RGB mandallı metal buton: https://www.adafruit.com/product/4659 (gümüş veya siyah kaplamayla gelir)Avustralya'da, LED ışık çubukları ve sürüş ışıkları sadece yükseklerle gel
+ancak uzun farlar ışık çubuğu olmadan çalışabilmelidir, dolayısıyla bu anahtar/düğme de budur. Arka ışığı, iç ışıklar açıkken loş bir şekilde yanacak ve ışık çubuğu açıkken parlak bir şekilde yanacak şekilde kabloladım. Anahtarım için kablolama şu şekildeydi: Uzun far (12V) -> normalde açık (NO) düğme terminaliOrtak düğme terminali -> ışık çubuğu rölesiOrtak düğme terminali -> diyot -> arka ışık pozitif (+)İç ışıklar (12V) -> diyot -> 30k Ohm direnç -> arka ışık pozitif (+)Arka ışık negatif (-) -> toprak
+Diyotların nedeni, iç aydınlatmaların ışık çubuğunu etkinleştirmemesi ve ışık çubuğunun da iç aydınlatmaları etkinleştirmemesidir (eğer kısa farlar kapalıyken uzun farlarımı ve ışık çubuğunu yakıp söndürürsem). STL dosyasını ekledim. 3D yazdırma ve f3d ve Fusion'da ihtiyaçlarınıza uyacak şekilde düzenleyebileceğiniz obj dosyaları 360 veya başka bir CAD paketi.

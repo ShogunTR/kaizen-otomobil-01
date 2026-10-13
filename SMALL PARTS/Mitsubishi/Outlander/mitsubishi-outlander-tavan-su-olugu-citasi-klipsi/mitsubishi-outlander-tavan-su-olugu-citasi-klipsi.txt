@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Mitsubishi Outlander tavan su oluğu çıtası klipsi
+
+Özet:
+Bu tasarım, zamanla yaş nedeniyle kırılan klipslar çatısının yerini almak üzere yapıldı.  Çevrimiçi fiyatlar nispeten pahalıydı ve tam model doğrulanamadı. klipslar biraz daha sağlam olacak şekilde tasarlandı. Fusion 360'ta tasarlandılar ve up300 üzerine basıldılar. klipslar tavanı raya takılır ve ardından avucunuzla sert bir darbe onları çatıdaki braketye kilitler.  Çıkarmak istiyorsanız rayı çevirerek serbest bırakın.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Mitsubishi Outlander tavan su oluğu çıtası klipsi
+Kod / referans: 7403A106
+Katalog veya kaynak adı: Mitsubishi Outlander tavan su oluğu çıtası klipsi

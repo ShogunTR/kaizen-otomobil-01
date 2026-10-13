@@ -1,0 +1,8 @@
+Kaizen Trim
+
+Chevy/GMC Pikap Yedek Lastik Vinç tampon Kapağı
+
+Özet:
+Bu, tamponye monte edilen kapağın yerine geçer. Orijinal, paslanmaya dayanıklı ince bir metal tutucuyla sabitlenmiştir ve kilidi yalnızca kontak anahtarı kullanılarak açılabilen bir silindirle "güvenlik altına alınmıştır". Ta ki silindir korozyona uğrayıncaya ve onu kaldırmak zorunda kalıncaya kadar. (Gerçekte, kilit silindiri ve dayanıksız plastik, hırsızlık girişiminin süresini yaklaşık 15 saniye artırır.) Bu, OEM kriko kolu uzantısına uyacak şekilde yuvalanmış basit dişli bir tapa ile deliği tıkar. Bir kilit silindirinden daha güvenli değildir ancak
+çamur çıkar ve yerinde paslanmaz. Model olarak 2004 Avalanche'ımı kullandım ama daha birçok yıl ve modele de uyması gerekir. İki versiyon sunuyorum: İlki, baskılı desteklere ihtiyaç duymaz, ancak montaj vidaları için mevcut tamponde delik açılmasını gerektirir cover_extension_screw_mounted_Body (Meshed) kullanın.stl İkincisi, tamponnin arkasında büyük bir somun kullanır, ancak harici dişler, yazdırma sırasında destekler gerektirir. cover_extension_nut_mounted(Meshed).stl, Nut_Body (Meshed).stl ve şim (Meshed).stl kullanın (somun ve altlık gerektirmez)
+destekler gösterilen yönde yazdırıldığında). Her iki versiyon da gösterilen yönde destekler olmadan yazdırılabilen plug_Body (Meshed).stl gerektirir. Tüm dişler payanda tarzındadır ve sıkıldığında maksimum güç sağlayacak şekilde yönlendirilmiştir. Bunun için PLA yerine UV'ye ve hava koşullarına dayanıklı bir malzeme öneririm. PETG kullandım. Bu benim kendi özgün çalışmamdır. Freecad 1.0 kullanılarak tasarlandı, Orca 2.2.0 kullanılarak dilimlendi. Tamirciler için Freecad tasarım dosyaları dahildir.

@@ -1,0 +1,8 @@
+Kaizen Trim
+
+BYD Dolphin Arka pandizot Pivot klips Adaptör / Güçlendirme
+
+Özet:
+BYD Dolphin Arka Paket Rafı Pivot klips Adaptör / GüçlendirmeGenel Bakış BYD Dolphin arka paket rafı için özel olarak tasarlanmış bir klips-on adaptörü / takviyesi. Orijinal fabrika paket rafı, pivot çentik alanı için aynı yumuşak keçe malzemeyi kullanır, bu da bagaj kapağını açarken veya kapatırken çok kolay bir şekilde dışarı kaymasına veya klipslerinin açılmasına neden olur. Bu 3D baskılı adaptör doğrudan bagaj kapağının üzerinde kayar. Montaj çentiğinde OEM yumuşak malzeme; hiçbir değişiklik, vida veya yapıştırıcı gerekmez. Rahat ve güvenli bir uyum sağlayan sert bir parça görevi görür
+Montaj pimleri sayesinde rafın sürekli düşmesi veya çıkması önlenir. Temel Avantajlar• Non-İnvazif Yükseltme: Fabrika rafına zarar vermeden, kesmeden veya değiştirmeden stoktaki yumuşak malzemenin üzerine sığar.• Güvenli Tutma: Gevşek, yumuşak çentiği pivot pimi için sağlam, hassas bir yakalama noktasına dönüştürür.• Kolay Kurulum: klipsyi aynı hizada oturana kadar OEM çentik bölümünün üzerine kaydırmanız yeterlidir.Yazdırma Ayarları• Malzeme: PETG veya ABS/ASA önerilir (yaz aylarında otomobilin iç ısı direnci nedeniyle)
+PLA geçici olarak çalışacaktır.• dolgu: Maksimum sertlik ve dayanıklılık için $40\% - 100\%$.• katman yüksekliği: $0,2 \text{ mm}$• destekler: Gerekli değildir (baskı yönüne bağlı olarak).Kurulum Talimatları BYD Dolphin paket rafınızın yan tarafındaki montaj çentiğini bulun.Basılı olanı kaydırın. klipsyi çentik alanının etrafındaki yumuşak keçe malzemeye yerleştirin. Paket rafını tekrar aracın montaj pimlerine takın ve rafın sıkı bir şekilde tutulmasının keyfini çıkarın!

@@ -1,0 +1,11 @@
+Kaizen Trim
+
+BMW orta konsol trim ara parçası
+
+Özet:
+Bmw E30 - orta konsol kaplaması için ara parça. OEM-numarası: 51 16 1 943 121Bu ara parçası, orta konsol kaplama plastiğinin bükülmesini veya deforme olmasını önlemek için kullanılır.Orijinal parçanın boyutlarıyla çoğaltılmıştır.Fusion360 kaynak dosyaları (*.f3d) eklenmiştir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW orta konsol trim ara parçası
+Kod / referans: 51161943121
+Katalog veya kaynak adı: BMW orta konsol trim ara parçası

@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Audi dış kapı kolu bağlantı klipsi
+
+Özet:
+443 839 821 (443839821) - artık Audi'de bulunmayan kapı mekanizması tutucusu klips. Bu klips, 1991 Audi 200 20v'de ve muhtemelen pek çok benzer klasik Audi'de kapı açma mekanizmasının birçok alanında kullanılır. Bunlar, dış kapı kolunun kapı kilidine olan metal bağlantısını sabitler. Arabamda bir dizi soğuk hava yaşadık ve aynı gün her iki dış ön kapı açma mekanizması da aynı şekilde bozuldu. PETG'deki bu basılı klipslar'yi kullanarak onları tekrar faaliyete geçirmeyi başardım.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Audi dış kapı kolu bağlantı klipsi
+Kod / referans: 443839821
+Katalog veya kaynak adı: Audi dış kapı kolu bağlantı klipsi

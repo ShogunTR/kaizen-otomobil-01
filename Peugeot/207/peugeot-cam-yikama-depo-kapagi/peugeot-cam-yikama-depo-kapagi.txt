@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Peugeot cam yıkama depo kapağı
+
+Özet:
+Orijinal kapağım kırıldığı için yenisini yaptım. Aynı 6431F3 parça numarasına sahip tüm PSA Grup Arabalarına uyar. cam yıkayıcı hazne ve643232 parça no. cam yıkayıcı hazne kapak. Herhangi bir değişiklik yapmak istiyorsanız .stp dosyasını yükledim.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Peugeot cam yıkama depo kapağı
+Kod / referans: 6431F3
+Katalog veya kaynak adı: Peugeot Citroen cam yıkama suyu deposu
+Açıklama: Kod komple cam yıkama deposuna aittir; mevcut model deponun kapağıdır.

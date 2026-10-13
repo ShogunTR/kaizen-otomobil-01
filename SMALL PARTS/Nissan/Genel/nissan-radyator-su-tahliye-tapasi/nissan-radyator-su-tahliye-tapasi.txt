@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Nissan radyatör su tahliye tapası
+
+Özet:
+Parça Numarası: 21441-JK20A Tahliye tapasını kaybettiğimi düşündükten sonra G37'm için bu kopyalamayı yaptım.. Geri alma sürahisinde buldum (o yüzden kendinizinkini kaybettiğinizi düşünüyorsanız önce orayı kontrol edin, hahaha) Lütfen bunun herhangi bir şekilde spesifikasyona aykırı olup olmadığını bana bildirin; düzeltmeyi deneyeceğim. Mutlu mekanikleştirme Not: Bunu yüksek sıcaklığa dayanıklı plastikle yazdırın (ASA veya PETG'yi öneririm) Not: bu model birden fazla Nissan aracıyla çalışır, hangisi için çalıştığından emin değilim.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Nissan radyatör su tahliye tapası
+Kod / referans: 21441-JK20A
+Katalog veya kaynak adı: Nissan radyatör su tahliye tapası

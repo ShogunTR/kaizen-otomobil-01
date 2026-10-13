@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Audi A3 far arka toz kapağı
+
+Özet:
+Bu, Audi A3 / 2004 veya Smart ForFour / 2007 için yedek far tozluk kapağıdır. Orijinal parça numarası 1305239225'tir (1 305 239 225 PP-GF30). destek ile yazdırın.  PETG, ABS'ye göre daha az çekmesi nedeniyle tercih edilmektedir. Model boyutunu daima kullanılan malzemenin çekmesine göre ayarlayın (+/- %1-2). Yalnızca tek bir araçta (Smart) test edildiği için WiP olarak işaretlendi. İyileştirme önerileri memnuniyetle karşılanmaktadır.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Audi A3 far arka toz kapağı
+Kod / referans: 1305239225
+Katalog veya kaynak adı: Audi A3 far arka toz kapağı

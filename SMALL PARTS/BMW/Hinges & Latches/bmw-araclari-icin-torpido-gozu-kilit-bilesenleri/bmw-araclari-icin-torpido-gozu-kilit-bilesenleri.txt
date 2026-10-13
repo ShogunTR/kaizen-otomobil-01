@@ -1,0 +1,12 @@
+Kaizen Trim
+
+BMW araçları için Torpido Gözü Kilit bileşenleri
+
+Özet:
+90'lardaki diğer birçok otomobil gibi E36 BMW 3 serisi de kötü tasarlanmış bir torpido gözü mekanizmasına sahipti.  Şimdilik yedek parça basmak için orijinal tasarımı ölçtüm ve kopyaladım. Daha iyi serbest bırakma eylemi için ana mandal kolunu basılı tutacak şekilde tutucunun tasarımını değiştirdim. Tutucu iyi çalışıyor ancak mandal kolu üzerinde biraz daha çalışmam gerekecek.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW araçları için Torpido Gözü Kilit bileşenleri
+Kod / referans: 798715
+Model açıklamasındaki ad: BMW araçları için Torpido Gözü Kilit bileşenleri
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

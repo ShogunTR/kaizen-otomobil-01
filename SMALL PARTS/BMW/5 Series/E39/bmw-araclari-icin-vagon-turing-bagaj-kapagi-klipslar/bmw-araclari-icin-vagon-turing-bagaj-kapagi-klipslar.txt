@@ -1,0 +1,13 @@
+Kaizen Trim
+
+BMW araçları için vagon (turing) bagaj kapağı klipslar
+
+Özet:
+BMW E39 vagonumun (turing) bagaj kapısının her iki yanında plastik klipslar eksikti. Bu klipslar, plastik yan kapakları yerinde tutar. Orijinal yedek parçalar (BMW parça numarası: sol: 51498217213, sağ:51498217214) çok pahalı olduğundan, kendi yedek parçalarımı basmaya karar verdim. Yüklenen dosyalar klipslar'nin sağ tarafını içeriyor, ancak bunları Cura'da yansıtabilirsiniz, böylece sol taraftakilere de sahip olursunuz (resimlere bakın).
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW araçları için vagon (turing) bagaj kapağı klipslar
+Kod / referans: 51498217213
+Katalog veya kaynak adı: BMW sol bagaj kapak döşemesi klipsi
+Kod / referans: 51498217214
+Katalog veya kaynak adı: BMW sağ bagaj kapak döşemesi klipsi

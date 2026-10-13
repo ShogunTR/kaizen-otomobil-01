@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Honda far arka kapağı
+
+Özet:
+1 064 SEH 2567305000 daha güçlü ışık için ilave alana sahip led kapak değişimi. Yazdırmak istediğiniz son dosya "FINAL-toz kapağı.kare-delik.stl"dir - baskıdan sonra ayar gerektirmeden sığacak şekilde değiştirilmiş dişleri vardır ve boyutları genel uyum için daha iyi olmalıdır. Gerisi sadece ihtiyaçlarınıza göre ayarlamanız için şablonlardır. Bunlar test edilmemiştir ve çalışmayacaktır. Ama isterseniz hala bunlara sahipsiniz. İsterseniz Blender'da uzatma odasının derinliğini ayarlamak çok kolaydır. ABS veya daha iyisi ASA ile yazdırın. Belki CF dolgu ile bile
+Kendinizi hoş hissediyorsunuz, ancak 3 ay sonra düzenli olarak ASA iyi hissettiriyor.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Honda far arka kapağı
+Kod / referans: 2567305000
+Katalog veya kaynak adı: Honda far arka kapağı

@@ -1,0 +1,11 @@
+Kaizen Trim
+
+BMW yağ soğutucu boru braketi
+
+Özet:
+BMW Parça numarası 17201712210. BMW modellerindeki yağ soğutucu hatlarını tutar: 3 Serisi (E30, E36, E46), 5 Serisi (E34, E39), 7 Serisi (E32, E38, E65, E66), X3 (E83), X5 (E53), Z3, Z4 (E85)PA6-GF veya benzeri yüksek kalitede yazdırmanız önerilir fiber veya CF takviyeli temp filament. Tam bir braket için iki parçaya ihtiyaç vardır.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW yağ soğutucu boru braketi
+Kod / referans: 17201712210
+Katalog veya kaynak adı: BMW yağ soğutucu boru braketi

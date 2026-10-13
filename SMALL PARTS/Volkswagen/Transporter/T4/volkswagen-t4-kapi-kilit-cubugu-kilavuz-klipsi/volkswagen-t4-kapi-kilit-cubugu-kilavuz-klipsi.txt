@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Volkswagen T4 kapı kilit çubuğu kılavuz klipsi
+
+Özet:
+klipsyi ABS ile yazdırdım çünkü PLA veya PETG'nin kapıda yeterli sıcaklık stabilitesine sahip olup olmadığından emin değildim. Destek yapısıyla yan yatarak yazdırmak en iyisidir. klipsyi biraz gevşek olduğu için tekrar geliştirdim.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Volkswagen T4 kapı kilit çubuğu kılavuz klipsi
+Kod / referans: 701837199
+Katalog veya kaynak adı: Volkswagen T4 kapı kilit çubuğu kılavuz klipsi

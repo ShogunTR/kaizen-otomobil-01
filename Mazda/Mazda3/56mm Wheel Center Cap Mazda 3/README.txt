@@ -1,0 +1,8 @@
+Kaizen Trim
+
+56mm Tekerlek jant göbeği kapağı Mazda 3
+
+Özet:
+Bu model bir ikilemi çözmek için oluşturuldu. 2006 Mazda 3'ten 2013 Mazda 3'ümde kullanmak istediğim bir takım jantlar satın aldım. Tekerlekler kaba bir şekle sahipti ve yanlarında jant göbeği kapağılar yoktu ama ucuzlardı. Orman sitesinden yedek kapaklar almayı denedim, ancak bunlar yanlıştı ve klips içeri girmedi. OEM Bu jantlar için klipslar hala mevcuttur, ancak parça başına maliyeti 12 ile 20 $ arasındadır! Bu yüzden kendiminkini yapmaya karar verdim. Burada gördüğünüz tasarımlarımın 3.1 versiyonudur.  İlk başta OEM tasarımını 5 veya
+Tekerlek göbeğinin içindeki çıkıntıya oturacak 6 küçük klipslar.  Bunlar pek işe yaramadı çünkü tırnaklar koptu… Bu aynı zamanda Mazda'dan aldığınız enjeksiyon kalıplı olanlarda da sorun.  klipslar'yi genişleterek yerinde kalmalarını sağlayan metal bir halka kullanarak bunu "sabitlediler". Tasarımımda, bunları doğru şekilde yerine kilitlemek için ince bir kenar üzerinde doğru derinlikte 7 küçük tümsek kullanılıyor.  Bunları çıkarmak için tekerleğin iç kısmına düz bir aletle hafifçe vurun, çekiç sapı öneririm. Bunların kullanımda ne kadar dayanacağını bilmiyorum,
+ancak çok ucuzdurlar ve basılması kolaydır.  (Her kapak yaklaşık 8 gram ağırlığındadır.) Tekerlekleri tamir ettirip bir süre kullandıktan sonra modeli herhangi bir iyileştirmeyle güncelleyeceğim. baskı tablası camınız varsa muhtemelen kapağın üstüne bir çıkartma veya başka bir şey yapıştırabilirsiniz.  PEI kaplamalı çelik yatak plakam düzgün dokulu bir yüzey bırakıyor, bu yüzden muhtemelen şimdilik bununla yetineceğim. Bunu diğer sitelerde de paylaştım.

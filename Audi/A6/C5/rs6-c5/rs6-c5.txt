@@ -1,0 +1,18 @@
+Kaizen Trim
+
+RS6 c5
+
+Özet:
+Yeniden oluşturulan Audi RS6 C5 tampon ön ızgara modellerinin önerilmesi
+
+Ön tampon Alt Sol ızgara 4B3807681D
+Ön tampon Alt Sağ ızgara 4B3807682D
+
+Tarama, Blender'da temizlemeyi başaramadığım bazı istenmeyen noktalar tespit etti, bu nedenle yeniden işleme için yeterli malzemeyi bırakmak amacıyla parça %100 dolgu ile basıldı. Bölüm gayet iyi çıktı, üst kısımda katman kayması yaşadım, çözülebilir
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: RS6 c5
+Kod / referans: 4B3807681D
+Katalog veya kaynak adı: Audi RS6 C5 sol ön tampon hava yönlendirme ızgarası
+Kod / referans: 4B3807682D
+Katalog veya kaynak adı: Audi RS6 C5 sağ ön tampon hava yönlendirme ızgarası

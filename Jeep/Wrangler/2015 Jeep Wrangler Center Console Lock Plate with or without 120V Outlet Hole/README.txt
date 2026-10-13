@@ -1,0 +1,8 @@
+Kaizen Trim
+
+2015 Jeep Wrangler Orta Konsol Kilit Plakası, 120V Çıkış Deliği olan veya olmayan
+
+Özet:
+Konsol loch plakasının değiştirilmesi, sanki bir kriko @$$ Jeep'inize girip içine girmek için konsolu kırmış gibi. Bazı salaklar 2015 Jeep Wrangler'ıma zorla girip orta konsolu kırdılar çünkü aptalca kilitli olmanın birini durdurabileceğini düşündüm. Konsol kapağının kapalı kalmasını sağlayan plaka kırılmıştır (resim 1). Bunu kendime yeni bir tabak yapmak için ölçümler için kullandım. Ayrıca iki beyaz klipslar'yi orijinalinden kurtarmayı başardım (resim 2 ve 3), daha uzun süre kaldırmak için bir bıçağa veya başka bir şeye ihtiyacınız var
+klipsyi çıkarmak için yukarı doğru çıkıntı yapın. Bende 120 V elektrik prizi de var ama çıkış deliği olmayan bir versiyonunu yaptım. Başka bir 2015 Wrangler'da hiç bulunmadım, bu yüzden prizin standart olup olmadığı veya orijinal sahibinin sahip olduğu bir seçenek olup olmadığı hakkında hiçbir fikrim yok. Ayrıca bunun 2015 yılı civarındaki diğer yıllara uyup uymayacağını da bilmiyorum. Önce beyaz klipslar'yi iki direğe koyun (resim 6). İlk önce çıkışı deliğe yerleştirmeniz gerekir. Daha sonra kabloyu bağlayın. Son olarak plakayı yerine yerleştirin ve üstten sert bir şekilde itin. Küçük klipsyi istiyorsunuz
+deliğe geçmek için alt kısmı. Artık konsol kapağı kapalı kalacaktır. Ve benim hatamdan ders alın, konsolda değerli hiçbir şey bırakmayın. Ve asla kilitlemeyin, bir daha asla kırılmayacaktır! Bu benim en çok gurur duyduğum tasarım. Mükemmel bir şekilde uyması gerekiyordu ve sanırım bunu başardım. Umarım aynı duruma düşen başka birine yardımcı olabilir.

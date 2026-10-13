@@ -1,0 +1,9 @@
+Kaizen Trim
+
+Škoda Superb vites değiştirme kulakçıklarının silinmesi
+
+Özet:
+Otomatik şanzımanlı bir arabanın direksiyonunu manuel bir direksiyonda kullanmak istediğinizde, otomatik Škoda Superb 2010 direksiyon simidi için vites değiştirme kulakçıklarını kendin yap direksiyon siler. İnanın bu, Škoda, VW, Audi gibi VW grubundaki otomobil markalarının direksiyon simidi değiştiricilerinin çoğuna uyuyor… Yapım süreci ilk olarak fotometri yoluyla 3D modeli yakalamak ve ardından parçanın çoğunluğunu temel şekiller ve araçlarla Tinkercad'de yeniden oluşturmaktı.Fotoğraflarda Solda orijinal parçaları ve sağda markayı görebilirsiniz. Bu benim ilkim
+“orijinal” 3D model, bu yüzden lütfen buna biraz şüpheyle yaklaşın, 3D modellemeye yeni başlıyorum ve manuel arabam için direksiyonumu otomatik olanla değiştirdikten sonra bu markayı çevrimiçi bulamadığım için bu kısmı esas olarak kendim için yaptım. İçeriden pek hoş değil ama kesinlikle gayet iyi çalışıyor ve uzun vadede işlevsel olduğuna inanıyorum. Bunu üniversitemde siyah PETG ile %15 dolgu dik dururken bastırdım. Bunu kendim basmıyordum, bu yüzden ne yazık ki size daha fazla bilgi veremiyorum. ben de tavsiye etmiyorum
+Küçük kancalar için daha fazla destek kirişi ekleyin, çünkü destekleri çıkarmaya çalıştığınızda kolayca kırılırlar. Şahsen kancaları herhangi bir destek olmadan bastım (ya da bana öyle söylendi) ve gayet iyi sonuçlandılar. Eğer bazılarınız sorunlarla karşılaşırsa ya da kendiniz düzenlemek isterseniz, yorum yapın ya da bana özel mesaj gönderin; ben de eğriler vs. olmadan tamamlanmamış modeli ekleyeceğim. Daha fazla düzenleme için. Direksiyon simidi kollarına mükemmel uyum sağlaması ve aynı hizada olması için DÜZGÜN ZIMPARALAMANIZI tavsiye ederim. Benimkini zımparalamadım ve şimdi biraz dışarı çıkıyor, bu da
+sinir bozucu. Yine de mükemmeliyetçi değilseniz o kadar da büyütülecek bir şey değil çünkü direksiyon arkası zaten pek dikkat çekmeyen bir yer :) Umarım yeterlidir, iyi eğlenceler!

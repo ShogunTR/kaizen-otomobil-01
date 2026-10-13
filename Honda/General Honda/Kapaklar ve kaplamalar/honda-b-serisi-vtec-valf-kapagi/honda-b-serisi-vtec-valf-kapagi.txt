@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Honda B serisi VTEC valf kapağı
+
+Özet:
+Tüm Honda fanatikleri için burada hoşunuza gidebilecek bir şey var. bunu çevrimiçi buldum ve stl'ye dönüştürdüm. Bu dosyanın yaratıcısı Bruno Sousa'dır.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Honda B serisi VTEC valf kapağı
+Kod / referans: 961056
+Model açıklamasındaki ad: Honda B serisi VTEC valf kapağı
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

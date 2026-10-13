@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Alfa Romeo 156 166 Rölanti Sensörü Kapağı
+
+Özet:
+Bu, BOSCH'un 0132008650 (Rölanti Kontrol Valfı Sensörü Kapağı) parça numarasıyla üretimi durdurulan Alfo Romeo Rölanti Sensörü Kapağıdır.   İndirimlidirler ve tamamen yeni bir sensör satın almak çok para gerektirir, bu nedenle tüm ALFA'lar gibi kapağını kaybettiyseniz, sadece bir tane yazdırın.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Alfa Romeo 156 166 Rölanti Sensörü Kapağı
+Kod / referans: 0132008650
+Katalog veya kaynak adı: Alfa Romeo Bosch rölanti kontrol ünitesi sensör kapağı
+Açıklama: Kod Bosch rölanti / gaz kelebeği kontrol ünitesine aittir; mevcut 3D model bunun sensör kapağıdır.

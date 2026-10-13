@@ -1,0 +1,14 @@
+Kaizen Trim
+
+Fiesta mk4 için dış yan cam kaplaması
+
+Özet:
+Fiesta mk4 ve mk4 restyling'in (1995-2002) 5 kapılı versiyonu için arka yan cam alanındaki açıyı kapatan dış kaplama. Eşdeğer ford kodları sağ taraf için 1018995 ve 1018996'dır. Ekteki dosya soldakidir (LHD araçlarda sürücü tarafı), diğerini istiyorsanız sadece onu yansıtmanız gerekir. Paletli araba olarak eski bir Fiesta'm vardı ve bu parçası eksikti, Ford yenisi için inanılmaz bir miktar istiyordu, ben de diğer tarafı çıkardım ve yazdırmak için cad'de bir kopyasını modelledim. Resimlerdeki resim basılmıştı
+siyah ASA ve dış parça olduğundan dolayı tercih edilen malzeme olduğunu düşünüyorum.Görüntü eksikliği için kusura bakmayın, araba artık bende değil ve bu da sabit diski temizlerken bulduğum eski bir proje.İyi seyirler!
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Fiesta mk4 için dış yan cam kaplaması
+Kod / referans: 1018995
+Katalog veya kaynak adı: Ford Fiesta arka kapı cam mekanizması açıklık kapağı
+Kod / referans: 1018996
+Katalog veya kaynak adı: Ford Fiesta sol ayna dış trim parçası

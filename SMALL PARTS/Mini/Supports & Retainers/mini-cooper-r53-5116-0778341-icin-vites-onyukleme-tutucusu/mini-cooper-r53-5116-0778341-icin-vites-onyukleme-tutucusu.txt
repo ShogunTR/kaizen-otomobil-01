@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Mini Cooper R53 5116 0778341 için Vites Önyükleme Tutucusu
+
+Özet:
+Bu parçayı tek tek satılık olarak hiçbir yerde bulamadım. Birlikte satılan bu parçayı alabilmek için orta konsol bardak tutucu kaplamasının tamamını satın almak zorunda kaldım. Bunu hızlandırmak için kaliperlar ve Fusion 360 ile yaklaşık 8 saat harcadım. Kesin bir kopya değil; ancak tasarım amacının kapsandığını düşünüyorum. Performansı etkileyeceğini düşünmediğim modelleme zahmetine girmediğim detaylar var. Shift bagajında ​​tırnağı saran delikler var. Bu kısım test edilmemiştir. Bunu, altında listelediğim lisans dahilinde yeniden karıştırmaktan çekinmeyin.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Mini Cooper R53 5116 0778341 için Vites Önyükleme Tutucusu
+Kod / referans: 0778341
+Model açıklamasındaki ad: Mini Cooper R53 vites körüğü tutucu çerçevesi
+Açıklama: Kısa kodun tam referansı 51160778341 olarak listelenir; model körük tutucu alt parçasıdır.

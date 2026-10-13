@@ -1,0 +1,18 @@
+Kaizen Trim
+
+Subaru motor alt koruma servis kapağı
+
+Özet:
+Subaru Legacy / Outback MY07 yok Motor kapağının altında bakım erişimi için 2 kapak bulunur. O kanatlardan birini kaybettim. Değiştirme mevcut değil, tamamının kapak altında satın alınması gerekiyor (200+$).  İşte ucuz bir yedek. İdeal bir kopya değil (basılırsa uzun süre dayanmaz), bunun yerine modeli yazıcı dostu yapmaya çalıştım;) Parça, karşıt kuvvetler altında şu adreste görülebilir: Subaru parça kataloğu \ Subaru LEGACY \ B13 \ Parçalara göz atın \ Gövde donanımı – dış \ Kapak altı ve egzoz kapağı \ Çizim #1 - parça 56410AG140, alternatif: 56410AG141.
+Basılı, uyuyor ;) Uzun vadede test edilecek ;) //düzenle Orijinal parçanın fotoğrafı (üzerine basılan numara 56417AG040) ve basılı olanı eklendi. Ayrıca kapağın altında motora takılan basılı parçanın fotoğrafı da eklendi.   V2'de hızlı çıtçıtlar daha iyi sertlik için biraz değiştirildi (+1 mm). Hala v1'i arabamda test ediyorum - şu ana kadar çok iyi ;) //edit~3000 km yapıldıktan sonra hala güçlü kalıyor :)//edit 2Neredeyse 4 yıl ve 80.000 km'den fazla yol kat ettikten sonra hala kullanılıyor.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Subaru motor alt koruma servis kapağı
+Kod / referans: 56410AG140
+Katalog veya kaynak adı: Subaru motor alt koruma paneli
+Açıklama: Kod komple motor alt korumasına aittir; mevcut model servis kapağıdır.
+Kod / referans: 56410AG141
+Katalog veya kaynak adı: Subaru ön alt koruma paneli
+Açıklama: Kod komple motor alt korumasına aittir; mevcut model servis kapağıdır.
+Kod / referans: 56417AG040
+Katalog veya kaynak adı: Subaru alt koruma servis kapağı

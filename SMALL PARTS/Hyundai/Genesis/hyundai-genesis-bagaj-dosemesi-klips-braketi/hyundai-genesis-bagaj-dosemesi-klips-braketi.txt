@@ -1,0 +1,13 @@
+Kaizen Trim
+
+Hyundai Genesis bagaj döşemesi klips braketi
+
+Özet:
+Bu, 2015 Hyundai Genesis "G80" "DH" sedanın bagaj kaplaması için bir yedek braketdir.  Keçeli üst trim paneline (85720-B1000-RRY) vidalanır/perçinlenir ve paneli yerinde tutmak için bagaj alanının "çatısına" giren yuvarlak bir klipsyi tutar.  İki versiyonu vardır: biri satış sonrası klipslar'de 2,5 mm'lik bir boşluk için ve diğeri OEM Hyundai klipslar'de 1,5 mm kalınlığında bir boşluk için (küçük bir "kuyruk" ile).  Satış sonrası klipslar'nin arka koltuğa en yakın iki açıklıkta çalışmadığını unutmayın; sadece üçünde kırpılmış halde kalıyorlar
+veya bagaj açıklığına daha yakın dört açıklık.  Yüksek dolgu ve ısıya dayanıklı plastik (ABS gibi) ile yazdırın.  Bunları takmak için orijinal perçinleri delmenizi ve yeni braketyi korumak için bilgisayar fanı vidalarını kullanmanızı öneririm.  Elbette FCStd dosyasını FreeCAD'de farklı klipslar'ye uyacak şekilde düzenleyebilir veya farklı vidaları/perçinleri kabul edebilirsiniz.  STEP CAD dosyalarını yazdırma için sağladım çünkü modern dilimleyiciler destek bunları ve 3MF veya STL'den farklı olarak doğrudan kavisli yüzeyleri yeniden üretiyorlar.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Hyundai Genesis bagaj döşemesi klips braketi
+Kod / referans: 85720-B1000-RRY
+Katalog veya kaynak adı: Hyundai Genesis bagaj üst bölme kaplaması
+Açıklama: Kod komple bagaj kaplamasına aittir; mevcut model bu kaplamanın klips tutucusudur.

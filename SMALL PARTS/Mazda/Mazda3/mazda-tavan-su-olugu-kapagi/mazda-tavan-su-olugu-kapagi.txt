@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Mazda tavan su oluğu kapağı
+
+Özet:
+Portbagaj fişimi kaybettim ve OpenSCAD kullanarak kendi fişimi tasarlamaya karar verdim. Bu, özellikle tüm delikleri kaplayacak şekilde yapılmıştır. Orijinalinden biraz daha geniş ama düzgün çalışıyor. Gerekli ayarlamalar varsa lütfen yorum yapın. Ne yapabileceğimi kontrol edeceğim. Mazda için GJ6A505A1 parça numarasıdır. NASIL YAZDIRILIR: Yan tarafa yazdırmak daha iyidir. Tasarımın küçük elemanlarını kırmayan destekler veya destekler ağacını kullanın. dolgu %20-100. dolgu ayarı, baskının boyutundan dolayı baskıyı çok fazla etkilemez.İsterseniz
+desteğe lütfen buradan bağış yapın:https://ko-fi.com/wakedev
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Mazda tavan su oluğu kapağı
+Kod / referans: GJ6A505A1
+Katalog veya kaynak adı: Mazda tavan su oluğu kapağı

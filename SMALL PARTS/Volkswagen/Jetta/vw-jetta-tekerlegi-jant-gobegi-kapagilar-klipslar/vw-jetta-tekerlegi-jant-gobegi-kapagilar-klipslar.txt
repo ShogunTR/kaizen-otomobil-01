@@ -1,0 +1,12 @@
+Kaizen Trim
+
+VW Jetta Tekerleği jant göbeği kapağılar klipslar
+
+Özet:
+Eksik/kırık Jetta Tekerleği jant göbeği kapağı klipslar'nin değiştirilmesi. Yazdırmak için ABS'yi kullanın, ardından eksik klipsyi değiştirmek için basılı parçaları epoksi (JB Weld kullanıyorum). Openscad dosyası dahil.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: VW Jetta Tekerleği jant göbeği kapağılar klipslar
+Kod / referans: 348463
+Model açıklamasındaki ad: VW Jetta Tekerleği jant göbeği kapağılar klipslar
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

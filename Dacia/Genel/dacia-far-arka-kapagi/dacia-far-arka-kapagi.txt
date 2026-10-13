@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Dacia far arka kapağı
+
+Özet:
+Aydınlatma için bir H4 güçlendirici (röle devresi) takarsanız, farnin arkasında daha fazla alana ihtiyacınız olur. Orijinal kapaklar (89045709) artık sığmayacaktır. Yeni kapakları bu yüzden tasarladım. Sürücü tarafındaki (FS) yolcu tarafındaki (BFS) kapaktan biraz daha yüksektir. Aydınlatma için bir H4 güçlendirici (röle devresi) takarsanız, farın arkasında daha fazla alana ihtiyaç duyarsınız. Orijinal kapaklar (89045709) artık ona uymuyor. Yeni kapakları bu yüzden tasarladım. Sürücü tarafı (FS) için olan şey
+yolcu tarafındaki kapaktan (BFS) daha yüksektir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Dacia far arka kapağı
+Kod / referans: 89045709
+Katalog veya kaynak adı: Dacia far arka kapağı

@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Mitsubishi Eclipse
+
+Özet:
+Otomobil modeli.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Mitsubishi Eclipse
+Kod / referans: 866079
+Model açıklamasındaki ad: Mitsubishi Eclipse
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

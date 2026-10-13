@@ -1,0 +1,8 @@
+Kaizen Trim
+
+1999 Mitsubishi Tutulma
+
+Özet:
+Orijinal Mitsubishi Eclipse modelinin remiksi birçok düzeltme içeriyordu; orijinal model düz veya yatay değil (uzun eksen boyunca eğimli) tuhaf bir açıyla oturuyor, bu yüzden onu biraz döndürdüm.  Tam olarak mükemmel bulamadım ama küçük ölçekli baskılar için yeterince iyi, daha büyük ölçeklerde fark edilip edilmeyeceğinden emin değilim. Ön tampon kapağı modelin gövdesinden biraz daha aşağıda asılı duruyor ve bu, eğer onu olduğu gibi yazdırırsanız modelin çoğunun destekler üzerine oturduğu anlamına geliyor.  Bana göre bu gerçekten çok kötü basılıyor, bu yüzden çoğunu kesmeyi tercih ettim
+Çoğunlukla düz bir taban oluşturmak için alt tarafı kullanın, böylece çoğunlukla baskı yüzeyiyle aynı hizada olur.  Bu, bir FDM yazıcıda çok daha kolay yazdırılır. Ön tekerlek yuvalarının üst kısımları, bu tekerleklere tam olarak oturacak kadar kesilmemiştir, bu yüzden orada daha fazla kabartma kesmek zorunda kaldım. Tekerlekler boş bardaklar olduğundan oldukça berbat görünüyordu, bu yüzden başka bir tekerlek modeli aldım ve OEM'ye yakın bir görünüm oluşturmak için bunu bununla birleştirdim.  Hala içi boş olduğundan gerçek tekerleklere benziyorlar, bana sorarsan oldukça hoş.  Çıkıntı olsa bile küçük ölçekte (örn.
+destekler) jant telleri için oldukça iyi baskı yapıyorlar ancak bu, daha büyük baskılarda bir sorun yaratabilir. Arka taraftaki egzoz oldukça çirkindi.  Muhtemelen hiçbir zaman doğru şekilde basamayacak, çirkin, alçak çokgen egzoz uçlarına sahip, yüzen düz bir paneldi.  bunu daha iyi bir modelle değiştirdim. Geri vites lambaları garip konilerdi (düşük poligon), bu yüzden onları daha çok gerçeğe benzettim

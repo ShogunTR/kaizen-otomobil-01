@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Volkswagen fren aşınma sensörü bağlantı gövdesi
+
+Özet:
+Araç tarafı için 3D yazdırılabilir Volkswagen fren sensörü fişi. Diğer tarafta genellikle yeni fren balataları bulunur. Bu, arabanın yan tarafını onarmanıza olanak tanır. Benimkini kırdım ve bunu yerel olarak temin etmek mümkün değildi. Audis ve Seast'lerde aynı fişi kullandıklarından oldukça eminim... PLA için temel ayarlarla PLA üzerine yazdırdım. Cura'da %30 güç ve destek kullanıldı. Parçaları birbirine yapıştırmak için CA kullandım. Konektörler (çubuklar) için bulunması kolay MTA 3050125 kullandım.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Volkswagen fren aşınma sensörü bağlantı gövdesi
+Kod / referans: 3050125
+Katalog veya kaynak adı: MTA Superseal 1.5 iki kutuplu erkek konnektör takımı
+Açıklama: Kod MTA konnektör takımına aittir; mevcut model Volkswagen fren aşınma sensörünün araç tarafı fiş gövdesidir.

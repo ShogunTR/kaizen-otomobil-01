@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Nissan X-Trail T30 Arka İç Difüzör (Terkedilmiş Proje)
+
+Özet:
+Bu terk edilmiş bir proje çünkü o zamandan beri bir tamircide yedek parça buldum.  BU GERÇEKTEN DÜZGÜN OLARAK UYMAYABİLİR!  Şeffaf PLA'ye birkaç prototip yazdırdım ve bu en uygun olanıydı, ancak henüz sekmeleri eklemedim ve boşlukları yapmadım.  Plan, buna LED sıyırma eklemek ve adaptör olarak yanmış bir ampul kullanmaktı.  Boş zamanınızda değişiklik yapıp uyarlayabilmeniz için kaynağı ekledim.  Nissan'ın arabalarını seviyorum ama bayilerinden nefret ediyorum.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Nissan X-Trail T30 Arka İç Difüzör (Terkedilmiş Proje)
+Kod / referans: 721832
+Model açıklamasındaki ad: Nissan X-Trail T30 Arka İç Difüzör (Terkedilmiş Proje)
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

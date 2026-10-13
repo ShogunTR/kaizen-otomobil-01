@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Mercedes yan basamak kapatma tapası
+
+Özet:
+Bir Mercedes GL veya ML'nin (muhtemelen daha fazla model, X164 veya W164) marşpiyenizi sabitlemek için vidalı tapa. 2006 GL 320 CDI koşu tahtama kendini beğenmiş bir şekilde uyuyor. Siyah bir filament seçin ve neyi cilalamaktan hoşlandığınızı veya başka bir şeyi seçin. Koyu gri bir PLA'im vardı ve dikkatli bakmadıkça farkı gerçekten göremiyorum. Bu konuda seçici davranıyorsanız, orijinal parçayı veya Ebay'den parça başına yaklaşık 16 USD karşılığında satın alın. Kendi kullanımınıza göre değişiklik yapmak için FreeCad dosyasını kullanın.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Mercedes yan basamak kapatma tapası
+Kod / referans: A1646981530
+Katalog veya kaynak adı: Mercedes yan basamak kapatma tapası

@@ -1,0 +1,18 @@
+Kaizen Trim
+
+1994-1997 Honda Accord istasyon vagonu kasa kapağı rayı değişimi
+
+Özet:
+Bu, 5. nesil Honda Accord istasyon vagonlarındaki kırık plastik kasa kapağı raylarına yönelik oldukça sağlam, minimalist bir çözümdür. Üretim dışı kalan parçalar ve kullanılmış parçaların fiyatı 150-300 ABD doları arasında olduğundan, bu, bir saatlik baskı süresinden sonra kargo alanınızı ve belki bir dolar filamentyi kaplamanıza olanak tanır. PLA'den daha güçlü bir şey muhtemelen ideal olsa da, ilk çiftimi Inland (Micro Center) markası PLA+ ile bastım ve her iki parça da, aşırı sıcak yaz sıcaklıklarına rağmen bir yıldan fazla dayandı. destekleri öneriyorum. Güncellemek istiyorum
+yerinde daha iyi kalması için orijinal parçanın bazı kıvrımlarını içeren tasarım; şimdilik sadece orijinal yıldız başlı vidayla ara sıra sıkılması gerekiyor. İlgilenirseniz OnShape tasarımını paylaşmaktan memnuniyet duyarım. Bu, sıfırdan tasarladığım ikinci şey, dolayısıyla her türlü yapıcı geri bildirimi veya yinelemeyi memnuniyetle karşılarım. Değiştirilenler (kısmen):84670-SV5-A02ZA84670-SV5-A02ZD84620-SV5-A02ZA84620-SV5-A02ZD
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: 1994-1997 Honda Accord istasyon vagonu kasa kapağı rayı değişimi
+Kod / referans: 84670-SV5-A02ZA
+Katalog veya kaynak adı: Honda Accord sol bagaj perde rayı kapağı
+Kod / referans: 84670-SV5-A02ZD
+Katalog veya kaynak adı: Honda Accord sol bagaj perde rayı kapağı
+Kod / referans: 84620-SV5-A02ZA
+Katalog veya kaynak adı: Honda Accord sağ bagaj perde rayı kapağı
+Kod / referans: 84620-SV5-A02ZD
+Katalog veya kaynak adı: Honda Accord sağ bagaj perde rayı kapağı

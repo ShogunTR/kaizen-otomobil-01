@@ -1,0 +1,13 @@
+Kaizen Trim
+
+Bmw E30\E28\E21- kablolama klips (OEM: 63 12 1 364 431, 61 13 1 362 825)
+
+Özet:
+Bmw E30\E28\E21 - kablo klips. OEM-numaraları: 63 12 1 364 431, 61 13 1 362 825Belki başka modellere de uyar.Ölçüler orijinal klipsden kopyalanmıştır. Orijinal yerlere mükemmel uyum sağlar.Fusion360 kaynak dosyası (*.f3d) eklenmiştir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Bmw E30\E28\E21- kablolama klips (OEM: 63 12 1 364 431, 61 13 1 362 825)
+Kod / referans: 63121364431
+Katalog veya kaynak adı: BMW kablo bağlantı klipsi
+Kod / referans: 61131362825
+Katalog veya kaynak adı: BMW kablo bağlantı kelepçesi

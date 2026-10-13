@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Land Rover BH4M20325A - 3D Taranan Alt Yan Etek ayrıntıları (Temizlenmemiş)
+
+Özet:
+Bu bir Land Rover'ın taradığım parçaları. Bunları MeshMixer'da veya başka bir yerde nasıl temizleyeceğimi gerçekten bilmediğim için onları olduğu gibi yükledim. Daha 90 derecelik kısım mükemmel bir şekilde uyuyor ancak diğerinin temizlenmesi gerekiyor. Bunları nasıl temizleyeceğini bilen varsa lütfen yapsın ve temizlenmiş halini benimle de paylaşsın :)
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Land Rover BH4M20325A - 3D Taranan Alt Yan Etek ayrıntıları (Temizlenmemiş)
+Kod / referans: BH4M20325A
+Model açıklamasındaki ad: Land Rover BH4M20325A - 3D Taranan Alt Yan Etek ayrıntıları (Temizlenmemiş)
+Açıklama: İnternet araştırmasında bu referansın kesin OEM karşılığı doğrulanamadı. Model açıklaması esas alındı; referans korunmuştur.

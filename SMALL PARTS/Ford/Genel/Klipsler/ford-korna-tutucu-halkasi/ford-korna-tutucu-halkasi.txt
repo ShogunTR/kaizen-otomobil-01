@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Ford korna tutucu halkası
+
+Özet:
+Sürüm: V1.0SON (son) Sürüm: 11 Şubat 2018Bazı tolerans ayarlamaları yaptım. Birlikte verilen gcode, Creality CR-10/10s yazıcıda yazdırmaya hazır!Uyar:60-64 Çeşitli Ford Arabaları61-70 F Serisi Kamyon65-66 Mustang Fairlane Falcon Galaxie66-74 Ford BroncoC2DZ-13A809C5AZ-13A809-BD1TZ-13A809-APLÜTFEN destek ile yazdırın ve dostane bir yorum ekleyin!!!
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Ford korna tutucu halkası
+Kod / referans: BD1TZ-13A809
+Model açıklamasındaki ad: Ford korna tutucu halkası
+Açıklama: Metindeki iki kod birleşmiştir. İlgili referans D1TZ-13A809-A olarak ayrıştırılmıştır.

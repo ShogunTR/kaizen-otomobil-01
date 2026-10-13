@@ -1,0 +1,15 @@
+Kaizen Trim
+
+BMW E46 arka emniyet kemeri kapak sabitleme pimi
+
+Özet:
+BMW E46 Coupe, iç döşemenin içinde kaybolma eğiliminde olan bir itme pimine sahip bu perçinle sabitlenmiş arka emniyet kemeri kaplamasına (52207028313 ve 52207028314) sahiptir. Diğer tarafı kurtarmayı başardım ve 3d baskı yedeklerine maket yaptım.522070013015220700130252207001303
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW E46 arka emniyet kemeri kapak sabitleme pimi
+Kod / referans: 52207028313
+Katalog veya kaynak adı: BMW sol arka kelebek cam kapağı
+Açıklama: Kod komple sol kapak parçasına aittir; mevcut model bunun sabitleme pimidir.
+Kod / referans: 52207028314
+Katalog veya kaynak adı: BMW sağ arka kelebek cam kapağı
+Açıklama: Kod komple sağ kapak parçasına aittir; mevcut model bunun sabitleme pimidir.

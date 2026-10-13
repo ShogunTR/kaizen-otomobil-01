@@ -1,0 +1,8 @@
+Kaizen Trim
+
+RC4WD Land Rover Defender D90 Sert Gövde için tavan rafı
+
+Özet:
+Bu tavan rafı, RC4WD Gelande II Land Rover Defender D90 sert gövdesine sığar. Rafı artı üç montaj plakasını yazdırın ve plakaları m2 vidalar ve somunlarla rafa takın (veya süper yapıştırıcıyla yapıştırın). Lambalar için özel montaj parçalarına sahip rafın bir versiyonu da bulunmaktadır. Yazdırma sırasında montaj tahtasının düz yüzünün altta olduğundan emin olun. Lambaların lenslerini yazdırmak için şeffaf PETG kullanın (tam bir makaraya ihtiyacınız yoksa 3djake'den 50g şeffaf PETG filament örneği iyi bir seçenektir). İç kısmını boyayın
+En iyi etkiyi elde etmek için lambaları gümüşle kaplayın ve mercekleri lamba gövdesine yapıştırın (umarım benden daha düzdür). Ray oldukça kırılgandır ve devrilmeye karşı dayanıklı değildir, bu nedenle yalnızca dikkatli bir sürücüyseniz ekleyin. ;-)Rayı süper yapıştırıcı ile yapıştırın. Raf, m2 vidalarla gövdeye tutturulabilir. Gövdeye delikler açın ve sabitlemek için iç taraftaki somunları kullanın. Lambalar, rafın alt tarafından doğrudan küçük m1,5 vidalarla takılabilir. Yatağa doğru şekilde yerleştirildiğinde tüm parçalar destek olmadan yazdırılabilir. Güçlü bir tane kullan
+filament rafın devrilmelere karşı dayanıklı olacağını. Çok uygun, güzel "sert PLA" filamentlar var. Formfutura'nın Tough PLA'sini kullandım, gerçekten çok güzel oldu. FreeCAD dosyasını da ekledim. Ne yazık ki çok tekrar kullanılamaz ve üzerinde çalışılması çok zordur. FreeCAD ile yaptığım ilk büyük projelerimden biriydi ve her zaman en iyi uygulamaları takip etmiyor Ama belki yine de işinize yarar.

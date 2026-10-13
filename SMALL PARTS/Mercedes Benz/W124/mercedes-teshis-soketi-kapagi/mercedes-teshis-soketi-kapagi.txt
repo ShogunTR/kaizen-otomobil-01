@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Mercedes teşhis soketi kapağı
+
+Özet:
+Fusion 360'ta oluşturuldu. Motor bölmesi koşullarına uygun bir şeye yazdırın. Test uyumu tamam.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Mercedes teşhis soketi kapağı
+Kod / referans: 2015400282
+Katalog veya kaynak adı: Mercedes teşhis soketi kapağı

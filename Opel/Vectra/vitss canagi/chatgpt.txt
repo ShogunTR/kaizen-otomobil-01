@@ -1,0 +1,123 @@
+Kaizen Trim
+
+1. OEM / Orijinal Bilgiler
+
+Elimde bulabildiğim bazı OEM numaraları ve ilgili parçalar şöyle:
+
+OEM / Parça Numarası	Parça Tanımı / Açıklama
+13130909	Opel Vectra C otomatik iç vites kolu / iç vites konsolu. 
+Oto Çıkma
+
+5738393	Opel Vectra C 2002-2008 için vites körüğü ve deri gaiter ile birlikte vites topuzu seti. 
+eBay
+
+5738902	5 vitesli F23 şanzımanlı Vectra C için vites topuzu. 
+Genel Opel
+
+Not: "vites çanağı" derken kastettiğin parçanın tam şekli önemli — otomatik/manuel, hangi şanzıman tipi (F17, F23, vs.), model yılı — çünkü bunlarda varyasyonlar var.
+
+2. Uyumlu Modeller & Yıllar
+
+Bu parçalar genel olarak aşağıdaki araçlarla uyumlu:
+
+Opel Vectra C (2002-2008) (farklı gövde tipleri: Sedan, Hatchback / GTS, Caravan) 
+eBay
++2
+OTOMATİK DOKÜMAN
++2
+
+Manuel 5 vitesli ve otomatik versiyonlara göre uygun parça tipi değişebilir. 
+OTOMATİK DOKÜMAN
++2
+Genel Opel
++2
+
+Özellikle “F23 şanzıman”lı modeller için vites topuzu & topuz + gaiter setleri mevcut. 
+Genel Opel
+
+3. Satış Açıklaması Örneği
+Türkçe Açıklama (Detaylı)
+
+Opel Vectra C (2002-2008) Vites Çanağı / Konsolu – ABS Plastik / 3D Baskı
+
+Ürün Detayları:
+– ABS plastikten üretilmiş, dayanıklı ve orijinal parçaya yakın yüzey kalitesi.
+– Manuel ya da otomatik model seçenekleri için özel versiyon (topuz + gaiter ya da iç vites çanağı) üretilebilir.
+– OEM referans numaraları örnek: 13130909, 5738393, 5738902 — model ve şanzıman tipine göre hangi referansla uyumlu olduğu ilan belirtilecektir.
+
+Uyumluluk:
+– Opel Vectra C (2002-2008), sedan / hatchback / karavan.
+– Özellikle F23 şanzımanlı manuel, otomatik versiyonlarla uyumlu versiyonlar.
+
+Avantajlar:
+– Orijinal ABS parçaya kıyasla uygun fiyat.
+– Hasarlı ya da eksik parçalar için kolayca temin edilebilir.
+– 3D baskı sayesinde renk / yüzey dokusu özelleştirilebilir; siparişe özel üretim mümkün.
+
+Montaj & Dikkat Edilmesi Gerekenler:
+– Vites topuzu, gaiter ile çanak / konsolun montaj vidaları ya da klips bağlantıları eski parçadan alınmalı ya da orijinal ölçülerde olmalı.
+– Siyah mat renk standart; müşteri talebine göre parlak ya da farklı renk seçenekleri sunulabilir.
+
+İngilizce Açıklama (Uluslararası Satış İçin)
+
+Opel Vectra C (2002-2008) Vites Çerçevesi / Konsolu – ABS Plastik / 3D Baskılı
+
+Ürün Detayları:
+– Dayanıklı ABS plastik, görsel olarak OEM'ye yakın yüksek yapı kalitesi.
+– Manuel veya otomatik şanzımanlara yönelik versiyonları mevcuttur (düğme + körük veya tam kaplama konsolu).
+– OEM referans numaraları 13130909, 5738393, 5738902'yi içerir — model ve şanzımana bağlı olarak uyumluluk öğe başına listelenecektir.
+
+Uyumluluk:
+– Sedan, hatchback / GTS ve station wagon (Caravan) gövde stilleri için Opel Vectra C (2002-2008) ile uyumludur.
+– F23 manuel şanzımanlı modeller ve uygulanabilir otomatik versiyonlar için uygundur.
+
+Avantajları:
+– Orijinal OEM parçalarına göre daha ekonomiktir.
+– Hasarlı veya eksik vites değiştirme çerçevesini/konsolunu değiştirmek için idealdir.
+– 3D baskı, istek üzerine özel renk / kaplama yapılmasına olanak tanır.
+
+Kurulum ve Notlar:
+– Orijinal parçalardan mevcut vidaları veya klipslar kullanın veya birlikte verilen kaplamaya doğru şekilde oturduğundan emin olun.
+– Standart kaplama mat siyahtır; diğer yüzeyler de sağlanabilir.
+
+4. Başlık / Kısa Açıklama / İlan Formatı
+
+İlan formatlarına uygun versiyon:
+
+Başlık Örneği:
+
+Opel Vectra C (2002-2008) Vites Çanağı / Konsolu – ABS 3D Baskı
+
+Kısa Açıklama:
+
+Opel Vectra C (2002-2008) için OEM referanslı ABS plastik vites çanağı / konsolu. Manuel veya otomatik versiyon ile uyumlu. Siparişle renk / model doğrulaması yapılır.
+
+Uzun Açıklama: (özellikler + avantajlar vs yukarıdaki detaylı Türkçe metinden kısaltılarak ilan formatına uygun şekilde.)
+
+5. Etiket / Hashtag Önerileri
+
+Şunları kullanabilirsin:
+
+#OpelVectraC
+
+#VectraC
+
+#VitesÇanağı
+
+#VitesShiftÇerçevesi
+
+#VitesKonsolu
+
+#3DBaskı
+
+#ABSPlastik
+
+#OEMUyumlu
+
+#OtoParça
+
+#İç Döşeme
+
+#Manuelİletim
+
+#OtomatikŞanzıman

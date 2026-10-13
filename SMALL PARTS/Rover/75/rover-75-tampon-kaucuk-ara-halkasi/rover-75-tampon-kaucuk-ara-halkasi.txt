@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Rover 75 tampon kauçuk ara halkası
+
+Özet:
+Rover 75 1999-2002 için kauçuk halkalı ön tampon cıvatalar (Parça numarası DYG100650) artık mevcut değildir. Yüzüğü Tinkercad'de çizdim. Orijinal boyutlarında PLE (Ninjatek Chinchilla) formatında bastırdım. Orijinal parçaya çok yakındır. Daha az esnek bir malzeme kullanılırsa, halkanın cıvataya sığması için biraz daha büyük basılması gerekir. Cıvataları kumladım, çinko kapladım ve boyadım.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Rover 75 tampon kauçuk ara halkası
+Kod / referans: DYG100650
+Katalog veya kaynak adı: Rover 75 ön tampon cıvata rondelası
+Açıklama: Kod cıvata-rondela bağlantısına aittir; mevcut model kauçuk ara halkadır.

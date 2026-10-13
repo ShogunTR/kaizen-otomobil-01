@@ -1,0 +1,6 @@
+Kaizen Trim
+
+Ford Escort MK IV spoiler tapası
+
+Özet:
+FORD ESCORT MK IV ARKA KAPI SPOİLER SABİTLEME VİDASI KAPAĞI. AUTOLATINA VERSİYONU (ARG. BRA)

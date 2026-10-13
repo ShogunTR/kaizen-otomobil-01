@@ -1,0 +1,15 @@
+Kaizen Trim
+
+Bmw far konnektör muhafazası sarı/gri/beyaz
+
+Özet:
+Bmw far konnektör fişi muhafazası, E30 için OEM 61131378417, 61131378418, 61131378419'un yerine geçer. Diğer modellere de uyabilir. Şahsen PETG benim için gayet iyi çalıştı, ancak diğerleri de işe yarayabilir. Arka muhafaza evrenseldir ve 3 farklı ön muhafazanın tümüne uyar.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Bmw far konnektör muhafazası sarı/gri/beyaz
+Kod / referans: 61131378417
+Katalog veya kaynak adı: BMW beyaz far fişi soket gövdesi
+Kod / referans: 61131378418
+Katalog veya kaynak adı: BMW far fişi soket gövdesi
+Kod / referans: 61131378419
+Katalog veya kaynak adı: BMW sarı far fişi soket gövdesi

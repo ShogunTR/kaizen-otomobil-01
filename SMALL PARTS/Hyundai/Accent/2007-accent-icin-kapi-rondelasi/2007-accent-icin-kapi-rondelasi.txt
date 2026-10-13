@@ -1,0 +1,12 @@
+Kaizen Trim
+
+2007 Accent için kapı rondelası
+
+Özet:
+Pek çok insanın ilgisini çekecek bir şey olmasa da 3D baskı için pratik bir uygulamadır. 2007 Hyundai Accent'im var. Kolu değiştirdiğimde kapı panelini yan taraftaki kapıya sabitleyen rondela kırıldı. Sorun değil, yenisini yazdırdım.  Doğal PLA kullandım ama ABS daha iyi olabilir. Önemli bir yük altında değildir. Aşırı ısınmamalı.  Bu şu anda tanımlanmış kategorilerin dışında görünüyor :)
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: 2007 Accent için kapı rondelası
+Kod / referans: 397728
+Model açıklamasındaki ad: 2007 Accent için kapı rondelası
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

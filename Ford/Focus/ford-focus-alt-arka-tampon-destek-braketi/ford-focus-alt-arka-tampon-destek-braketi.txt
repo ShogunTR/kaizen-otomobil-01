@@ -1,0 +1,20 @@
+Kaizen Trim
+
+Ford Focus alt arka tampon destek braketi
+
+Özet:
+Bu, 2013-18 Focus-ST'deki arka tampon desteknin yerine geçer.  Parça numarası CH51-A17B918-A veya CM51-A17B918-AC'nin yerine geçer. İster sağ ister sol tarafa sığar. 2014 yılıma monte edilmiştir, ancak diğer yılları internetteki verilere dayandırıyorum.  Ford'un fiyatı karşısında şaşkına döneceksiniz ve hala pahalı olan hurdalık parçaları, özellikle üst delikte çeşitli derecelerde hasara sahip olma eğilimindedir, çünkü parçalayıcılar perçinin nasıl açılacağını bilmiyor gibi görünüyor. Park halindeki bir şeye çarptığınızda kırılan kısım bu kısımdır.
+uzay.  Artık fabrika ön panel ekranını kullanmak için geri görüş kamerasının nasıl ekleneceğini buldum. PN BM51-A17B918-A kullanan standart Foci'ye (çok uzun) uymayacaktır. Bu benzerdir, ancak fabrika parçasının tam bir kopyası değildir, ancak tüm kritik yerlere mükemmel şekilde uyar ve aynı genel şekle sahiptir.  Arabanın altında olmadığınız sürece tamamen görüş alanı dışındadır, bu nedenle diğer tarafla herhangi bir uyumsuzluk sorun olmamalıdır. Kilit somunu ve gövde pulları olan 5 mm'lik bir cıvata ile üst tarafa (gövde tarafı) monte edilir. Hangisi sayfadaki deliğe sığacak
+pop perçini deldikten sonra metal.   Alt deliğe (tampon) 6 mm'lik bir cıvata takılır.  Yedek parçadaki plastik, fabrika Tinnerman somununu almak için biraz fazla kalın, ancak hırdavatçıda tam olarak uyan bir tane buldum.  Ayrıca orada bir kilit somunu ve büyük bir rondela da kullanabilirsiniz.   Alt deliği parçanın gövdesi boyunca ilerlettim, bu nedenle alt cıvatanın uzunluğu kritik değildir, çünkü herhangi bir ekstra uzunluk için boşluk vardır. Sıcak kaldırıma yakın olduğundan bu konumdaki sıcaklıklar oldukça yüksek olabileceğinden bunu ABS'ye yazdırdım.
+ve susturucunun hemen arkasında.  Çarpıklık bir sorundu ve sonunda başarılı bir baskı elde etmek için bir muhafaza inşa ettim.  baskı tablası'den destekleri kullandım. İhtiyacı ortadan kaldırmak için nasıl yeniden döndürülebileceğinden emin değilim ve yine de bağlantı elemanlarını kabul ediyorum.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Ford Focus alt arka tampon destek braketi
+Kod / referans: CM51-A17B918-AC
+Katalog veya kaynak adı: Ford Focus alt arka tampon destek braketi
+Kod / referans: CH51-A17B918-A
+Model açıklamasındaki ad: Ford Focus-ST 2013-'18 arka tampon destek
+Açıklama: İnternet araştırmasında bu referansın kesin OEM karşılığı doğrulanamadı. Model açıklaması esas alındı; referans korunmuştur.
+Kod / referans: BM51-A17B918-A
+Model açıklamasındaki ad: Ford Focus-ST 2013-'18 arka tampon destek
+Açıklama: İnternet araştırmasında bu referansın kesin OEM karşılığı doğrulanamadı. Model açıklaması esas alındı; referans korunmuştur.

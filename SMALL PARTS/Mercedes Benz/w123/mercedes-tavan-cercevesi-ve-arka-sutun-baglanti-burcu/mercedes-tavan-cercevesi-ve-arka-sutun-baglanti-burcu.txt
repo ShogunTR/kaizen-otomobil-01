@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Mercedes tavan çerçevesi ve arka sütun bağlantı burcu
+
+Özet:
+1970'li ve 80'li yılların seçkin Mercedes-Benz modellerinde tavan kaplamasını tutan "yay"ın montajı için rondela. Deformasyona izin vermek için esnek filament ile yazdırın. 3 dış katmana sahip %50 dolgude 85a Ninjaflex benim için en iyi sonucu verdi. Doğrudan tahrikli ekstruder önerilir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Mercedes tavan çerçevesi ve arka sütun bağlantı burcu
+Kod / referans: 1156960020
+Katalog veya kaynak adı: Mercedes tavan çerçevesi ve arka sütun bağlantı burcu

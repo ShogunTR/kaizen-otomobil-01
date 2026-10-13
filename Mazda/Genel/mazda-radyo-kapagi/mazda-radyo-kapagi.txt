@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Mazda Radyo Kapağı
+
+Özet:
+Bu, Mazda'nın genişletilebilir ses sistemi radyo kapağıdır. Miata ve MPV de dahil olmak üzere 2000'li yıllardan kalma birçok çift DIN Mazda radyoya uymalıdır; ben de onu test ettim. Boş olduğundan pek kullanışlı değil. Çoğu insanın bunu başka kullanımlar için değiştireceğini varsayıyorum.  Bu şey Tinkercad ile yapıldı. Çevrimiçi düzenleyin https://www.tinkercad.com/things/k2oO9mWgfDq
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Mazda Radyo Kapağı
+Kod / referans: 775605
+Model açıklamasındaki ad: Mazda Radyo Kapağı
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

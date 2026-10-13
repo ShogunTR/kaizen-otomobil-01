@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Renault dış kapı kolu kilit kapağı
+
+Özet:
+Bu parçanın fiyatı çok yüksek, o yüzden kırıldığında yenisini yaptım. Varsayılan ayarlarda yazdırılmıştır, PLA, destekler yok.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Renault dış kapı kolu kilit kapağı
+Kod / referans: 806470061R
+Katalog veya kaynak adı: Renault dış kapı kolu kilit kapağı

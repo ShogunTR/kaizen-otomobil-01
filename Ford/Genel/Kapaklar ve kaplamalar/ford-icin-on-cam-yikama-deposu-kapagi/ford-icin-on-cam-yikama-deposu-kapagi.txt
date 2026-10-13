@@ -1,0 +1,13 @@
+Kaizen Trim
+
+Ford için ön cam Yıkama Deposu Kapağı
+
+Özet:
+Bu babamın arabasının ön cam yıkama deposu kapağının 3 boyutlu modellemesidir. Orijinali yoğun ve uzun süreli kullanımdan dolayı hasar görmüş ve kendisi için yenisini modellememi istedi.  Maalesef 3D yazıcıya erişimim olmadığından, tasarımla ilgili teknik sorunları bulmak için çıktı alamadım.  Babamın 2008 Avrupa Ford Fusion'ı var (2003-2012 yılları arasında üretilen ilk nesil Ford Ecosport'un benzeridir). Motor 1,6 L l4 (benzinli) Duratec 16V'dir (100 Hp). Motor Ford'da da kullanıldı
+Fiesta VI ve Ford Focus II.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Ford için ön cam Yıkama Deposu Kapağı
+Kod / referans: 765811
+Model açıklamasındaki ad: Ford için ön cam Yıkama Deposu Kapağı
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

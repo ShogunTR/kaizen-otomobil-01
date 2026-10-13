@@ -1,0 +1,61 @@
+Kaizen Trim
+
+AUDI JANT GÖBEĞİ — UYUMLULUK LİSTESİ
+Kaynak: Kullanıcının sağladığı araç uyumluluk listesi.
+Dosya: Auditiant.stl
+
+NOT: Aşağıdaki model yılları motor, şanzıman, çekiş ve kasa seçeneğine göre değişebilir. Bu liste uyumlu varyantları tam olarak belirtir; yalnızca model-yıl aralığına bakarak her varyant için uyum varsayılmamalıdır.
+
+Audi A4 1.8L A/T FWD Taban Sedan — 2000, 2001, 2004
+Audi A4 1.8L A/T Quattro Avant Vagonu - 2000, 2001, 2004, 2005
+Audi A4 1.8L A/T Quattro Baz Sedan - 2000, 2001, 2004, 2005
+Audi A4 1.8L CVT FWD Taban Sedan - 2004, 2005
+Audi A4 1.8L M/T FWD Taban Sedan - 2000, 2001, 2004, 2005
+Audi A4 1.8L M/T Quattro Avant Vagonu - 2000, 2001, 2004, 2005
+Audi A4 1.8L M/T Quattro Baz Sedan - 2000, 2001, 2004, 2005
+Audi A4 2.8L V6 A/T FWD Taban Sedan - 2000, 2001
+Audi A4 2.8L V6 A/T Quattro Avant Vagonu - 2000, 2001
+Audi A4 2.8L V6 A/T Quattro Baz Sedan - 2000, 2001
+Audi A4 2.8L V6 M/T FWD Temel Sedan - 2000, 2001
+Audi A4 2.8L V6 M/T Quattro Avant Vagonu - 2000, 2001
+Audi A4 2.8L V6 M/T Quattro Baz Sedan - 2000, 2001
+Audi A4 3.0L V6 A/T FWD Taban Sedan - 2004
+Audi A4 3.0L V6 A/T Quattro Avant Vagonu - 2004, 2005
+Audi A4 3.0L V6 A/T Quattro Baz Sedan — 2004, 2005
+Audi A4 3.0L V6 CVT FWD Temel Sedan - 2004, 2005
+Audi A4 3.0L V6 M/T FWD Temel Sedan — 2004, 2005
+Audi A4 3.0L V6 M/T Quattro Avant Vagonu - 2004, 2005
+Audi A4 3.0L V6 M/T Quattro Baz Sedan — 2004, 2005
+Audi A6 3.0L V6 A/T Quattro Avant Vagonu - 2009, 2010, 2011
+Audi A6 3.0L V6 A/T Quattro Baz Sedan — 2009, 2010, 2011
+Audi A6 3.2L V6 CVT FWD Temel Sedan - 2009, 2010, 2011
+Audi A6 4.2L V8 A/T Quattro Baz Sedan — 2009, 2010, 2011
+Audi A8 4.2L V8 A/T Quattro Baz Sedan - 2006, 2007, 2008, 2009, 2010
+Audi A8 4.2L V8 A/T Quattro L Sedan — 2006, 2007, 2008, 2009, 2010
+Audi A8 6.0L 12 silindirli A/T Quattro L Sedan — 2006, 2007, 2008, 2009
+Audi allroad 2.7L V6 A/T Quattro Baz Vagonu - 2001, 2002, 2003, 2004, 2005
+Audi allroad 2.7L V6 M/T Quattro Baz Vagonu - 2001, 2002, 2003, 2004, 2005
+Audi allroad 4.2L V8 A/T Quattro Temel Vagonu - 2004, 2005
+Audi allroad 4.2L V8 M/T Quattro Temel Vagonu - 2004, 2005
+Audi S4 2.7L V6 A/T Avant Vagonu - 2001, 2002
+Audi S4 2.7L V6 A/T Taban Sedan — 2000, 2001, 2002
+Audi S4 2.7L V6 M/T Avant Vagonu - 2001, 2002
+Audi S4 2.7L V6 M/T Taban Sedan — 2000, 2001, 2002
+Audi S4 4.2L V8 A/T Avant Vagonu - 2004, 2005
+Audi S4 4.2L V8 A/T Taban Sedan — 2004, 2005
+Audi S4 4.2L V8 M/T Avant Vagonu - 2004, 2005
+Audi S4 4.2L V8 M/T Taban Sedan — 2004, 2005
+Audi S6 5.2L V10 A/T Taban Sedan — 2009, 2010, 2011
+Audi S8 5.2L V10 A/T Taban Sedan — 2007, 2008, 2009
+Audi TT 1.8L A/T FWD Tabanı Cabrio - 2003, 2004, 2005, 2006
+Audi TT 1.8L A/T FWD Temel Coupe — 2003, 2004, 2005, 2006
+Audi TT 1.8L A/T Quattro Baz Cabrio - 2004, 2005, 2006
+Audi TT 1.8L A/T Quattro Temel Coupe — 2004, 2005, 2006
+Audi TT 1.8L M/T Quattro Tabanı Cabrio — 2003, 2004, 2005, 2006
+Audi TT 1.8L M/T Quattro Temel Coupe — 2003, 2004, 2005, 2006
+Audi TT 3.2L V6 A/T Quattro Baz Cabrio - 2004, 2005, 2006
+Audi TT 3.2L V6 A/T Quattro Baz Coupe — 2004, 2005, 2006
+Audi TT 3.2L V6 A/T Quattro Özel Sürüm Cabrio - 2006
+Audi TT 3.2L V6 A/T Quattro Özel Sürüm Coupe - 2006
+Audi TT 3.2L V6 M/T Quattro Tabanı Dönüştürülebilir - 2004, 2005, 2006
+Audi TT 3.2L V6 M/T Quattro Baz Coupe - 2004, 2005, 2006

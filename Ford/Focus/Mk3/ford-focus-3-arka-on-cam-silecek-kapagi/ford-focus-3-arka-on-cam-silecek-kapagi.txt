@@ -1,0 +1,13 @@
+Kaizen Trim
+
+Ford Focus 3 arka ön cam silecek kapağı
+
+Özet:
+Compas3d dosya formatından .stl'ye dönüştürüldü, bu kat edilmesi gereken bir yolculuktu! Ayrıca VOLVO parçası olarak 30784289 olarak da adlandırılıyor. Ve satın almanız gerekiyorsa Ford Focus 3 parçası olarak bm5z17c526a.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Ford Focus 3 arka ön cam silecek kapağı
+Kod / referans: bm5z17c526a
+Katalog veya kaynak adı: Ford arka silecek kolu kapağı
+Kod / referans: 30784289
+Katalog veya kaynak adı: Volvo Ford arka silecek kolu kapağı

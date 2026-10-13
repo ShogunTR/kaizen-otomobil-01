@@ -1,0 +1,13 @@
+Kaizen Trim
+
+VW Otomatik Cam Regülatörü klips Her İki Tarafı Geliştirilmiş
+
+Özet:
+ İki versiyon yaptım, nedenini aşağıda görebilirsiniz. Volkswagen POLO 6N1 1996'ya mükemmel uyum sağlar. Freecad dosyaları dahildir, bu yüzden onu geliştirmekten çekinmeyin!   Lütfen mümkünse en yüksek dolum ayarıyla yazdırın (XXX_Improved.stl veya freecad projesi geliştirilmiş_model2 adlı dosyaları kullanın). Parçayı tam olarak yazdıramıyorsanız (veya istemiyorsanız), adı "delik" ile biten güçlendirilmiş parçaları tercih edebilirsiniz. Yazdırma sırasında
+"Orta" doldurma ayarı, parçanın ihtiyaç duyduğu yerde takviye noktaları oluşturacaktır (aksi takdirde kırılacaktır...).
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: VW Otomatik Cam Regülatörü klips Her İki Tarafı Geliştirilmiş
+Kod / referans: 900547
+Model açıklamasındaki ad: VW Otomatik Cam Regülatörü klips Her İki Tarafı Geliştirilmiş
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

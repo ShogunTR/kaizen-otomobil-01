@@ -1,0 +1,14 @@
+Kaizen Trim
+
+Audi Q7 arka kapı güneşlik tutucu kancası
+
+Özet:
+Audi Q7'de (4L) arka kapı manuel güneşliği için yedek çekme dili (klips/kanca). Bu model, hassas ölçümler ve 3D veriler kullanılarak hassas fabrika parçasını değiştirmek için oluşturuldu. Tasarım, 1:1 ölçek ve mükemmel uyum sağlamak için orijinal bileşenin yüksek çözünürlüklü 3D taramasına dayanmaktadır. 📦 Dahil Edilen Dosyalar: 3MF: Temiz geometri modeli (baskı ayarları dahil değildir).STEP: CAD düzenleme ve maksimum dışa aktarma kalitesi için yüksek kaliteli katı geometri.STL: Ham 3D tarama verileri orijinal kırık parçanın (dahil)
+referans).H2D Profili: Özellikle H2D yazıcılar için optimize edilmiş baskı profili (PET-CF ve ASA destekler).🛠 Yazdırma Gereksinimleri:Parçanın bir arabanın iç kısmındaki yüksek sıcaklıktaki ortama dayanmasını sağlamak için malzeme seçimi en önemli faktördür.Önerilen Malzemeler: ASA, PC (Polikarbonat) veya PET-CF.⚠ Isı Direnci: KULLANMAYIN PLA. Bir arabanın içi, PLA'nin cam geçiş sıcaklığını kolayca aşabilir ve bu da parçanın yumuşamasına ve bozulmasına neden olabilir. dolgu: Maksimum için %100 (Katı) şiddetle tavsiye edilir.
+mekanik mukavemet.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Audi Q7 arka kapı güneşlik tutucu kancası
+Kod / referans: 4L0861333
+Katalog veya kaynak adı: Audi Q7 sol arka kapı güneşliği
+Açıklama: Kod güneşlik grubunda geçer; mevcut model bunun bağlantı kancasıdır.

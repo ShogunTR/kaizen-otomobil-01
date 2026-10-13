@@ -1,0 +1,14 @@
+Kaizen Trim
+
+Volkswagen yağmur sensörü sabitleme klipsi
+
+Özet:
+Sensörünüzü metal ön cam braketinin içinde tutar 1K0955559AH Sensör ve 1K0845543 Braket Baskısı ile çalışır PETG'de
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Volkswagen yağmur sensörü sabitleme klipsi
+Kod / referans: 1K0955559AH
+Katalog veya kaynak adı: Volkswagen yağmur sensörü
+Açıklama: Kod yağmur sensörüne aittir; mevcut model sensör bağlantı klipsidir.
+Kod / referans: 1K0845543
+Katalog veya kaynak adı: Volkswagen iç ayna sabitleme plakası

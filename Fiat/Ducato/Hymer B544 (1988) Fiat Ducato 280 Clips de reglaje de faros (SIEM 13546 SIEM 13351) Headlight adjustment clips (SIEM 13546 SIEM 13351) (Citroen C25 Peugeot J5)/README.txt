@@ -1,0 +1,9 @@
+Kaizen Trim
+
+Hymer B544 (1988) Fiat Ducato 280 - klipslar far kontrolü (SIEM 13546 - SIEM 13351) / far ayarı klipslar (SIEM 13546 - SIEM 13351) (Citroen C25 - Peugeot J5)
+
+Özet:
+Bu tasarımla Fiat Ducato 280 tabanlı 1988 Hymer B544 karavanımdaki SIEM far ayar sisteminin orijinal plastik parçalarını değiştirdim ve Fiat Ducato 280, Peugeot J5 ve Citroen C25 tabanlı minibüslere uygun olabileceğini düşünüyorum. Tasarım iki çözüm içerir: klips soket (5mm): Vidalar için optimize edilmiş parça 5 mm çaplı bilye (Fiat'ta standarttır), daha sonraki 8 mm'lik olanlara uymaz. Güçlendirilmiş bağlantı (SIEM 13351'in yerine geçer): Eskiden gevşeyen orijinal silindirik parçayı yeniden tasarladım.
+Bu yeni versiyon, M3 vida ve somunla birbirine bağlanan, vidaların bilyalarını güvenli bir şekilde saran ve titreşimle kaçmalarını önleyen iki parçadan oluşur. Talimatlar: Motora ve farlara yakın oldukları için ısıya dayanıklı bir malzemeye (PETG, ASA veya ABS) yazdırın. Bağlantı parçası, yaklaşık 12-15 mm'lik bir M3 vidası ve bir somun gerektirir.ENG:Bu tasarım, klasik Hymer karavanları ve kamyonetleri için orijinal SIEM plastik far ayar parçalarının yerini alır.
+Fiat Ducato 280, Peugeot J5 ve Citroen C25.Proje iki çözüm içermektedir: Geçmeli klips (5mm): 5mm çaplı bilyalı vidalar için optimize edilmiştir (Fiat modellerinde standarttır).Güçlendirilmiş Bağlantı (SIEM 13351'in yerine geçer): Sık sık dışarı çıkan orijinal silindirik bağlantıyı yeniden tasarladım. Bu yeni versiyon, bir M3 vida ve somunla birbirine kenetlenmiş iki parçadan oluşur, bilyeli mafsalları güvenli bir şekilde tutar ve yol titreşimleri nedeniyle bağlantılarının kopmasını önler.Baskı Notları:Isıya dayanıklı malzemeler (PETG, ASA veya ABS) kullanın.
+bu parçalar motorun ve farlarnin yakınında bulunur. Bağlantı düzeneği bir adet M3 vida (12-15 mm) ve bir adet somun gerektirir.

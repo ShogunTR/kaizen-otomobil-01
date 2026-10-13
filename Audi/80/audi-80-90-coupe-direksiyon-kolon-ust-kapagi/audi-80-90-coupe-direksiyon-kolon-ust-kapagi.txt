@@ -1,0 +1,13 @@
+Kaizen Trim
+
+Audi 80 90 Coupe direksiyon kolon üst kapağı
+
+Özet:
+TEST EDİLMEMİŞ Bu, direksiyon kolonu üst kapağını kullanan, B3 Audi için 52 mm'lik çift göstergeli bir bölmedir. Tasarım, 1990 Audi Coupe Quattro'mda gelen kapağa dayanmaktadır. OEM tekerleğinin bir versiyonu ve satış sonrası direksiyon simidi göbeğiniz varsa kullanabileceğiniz bir versiyon vardır. Ayrıca direksiyon kolonu üst kapağının çıplak kopyasını da ekledim. Parça numarası 893953515CBunu yaptığımda herhangi bir değişiklik için güncelleme yapacağım. NOTLAR: Kenarlar pürüzlüdür ve düzeltilmesi gerekecektir. Son aşamada biraz esneklik sağlamak için vida deliklerini açılmadan bıraktım.
+düzenlemek. Bunları 1/8" uçla kendiniz delmeniz gerekecek. GÜNCELLEME 22.11.2020: Direksiyon kolonunun ön deliği yaklaşık 5 mm kadar sığ olduğundan sığması için büyüttüm. Ayrıca ön iki dikey kenarı da düzelttim. Orijinal dosyaları indirdiyseniz (referans için yerinde tutuldu) güncellenmiş dosyaları indirmelisiniz. 27.11.2020 GÜNCELLEME;Bir test baskısı yaptım ve bölmelerin çok ince olduğunu gördüm. yazıcının tamamlaması için üst kısım - Resme bakın (muhtemelen bunu yaparken eşmerkezli silindirleri yanlış hizaladım, ancak bunu ekranda göremezsiniz)
+3 boyutlu modeli). İyi haber şu ki, hizalamaların oldukça iyi olması için son küçük ayarlamaları yapabildim. Bu dosyalar GÜNCELLEME 2'dir. Kurulu resimlerini de ekledim. Standart boyutlu bir ölçü için bol miktarda alan. Ön panel, baskı için onu nasıl yönlendirdiğimden ve desteklermin yerleştirildiği yerden dolayı kaba. Gövde dolgusu ve kum/boya ile doldurmayı planlıyorum. GÜNCELLEME 3/12/2020: Kusurun düzeltildiğini doğruladım
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Audi 80 90 Coupe direksiyon kolon üst kapağı
+Kod / referans: 893953515C
+Katalog veya kaynak adı: Audi 80 90 Coupe direksiyon kolon üst kapağı

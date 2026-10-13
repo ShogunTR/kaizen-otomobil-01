@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Peugeot far arka toz kapağı
+
+Özet:
+Bu, Peugeot 5008 van (2014) için park/gündüz sürüş lambasının ampulüne erişim sağlayan iç açıklığı kapatmak için kullanılan parametrik (OpenSCAD) bir parçadır. Orijinal parça "Valeo 89072961" olarak etiketlenmiştir. Bu tasarım muhtemelen diğer arabalara kolayca uyarlanabilir. Parçanın esnek olması gerektiğinden TPU filament ile yazdırın.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Peugeot far arka toz kapağı
+Kod / referans: 89072961
+Katalog veya kaynak adı: Peugeot far arka toz kapağı

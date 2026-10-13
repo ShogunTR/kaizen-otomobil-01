@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Volkswagen elektrik kablo demeti tutucusu
+
+Özet:
+[TR] Kablo demeti tutucusu VW AG parçası üzerinde tasarlanmış yedek tutucu: 6R0 971 848 referansıyla tasarım, orijinalinden daha sağlam olması ve kolay yazdırılabilmesi için değiştirildi. Seat Ibiza 6J üzerinde test edildi. Uyumlu modeller: Volkswagen Golf, Polo, Derby, Vento, JettaAudi A1Seat Ibiza, ToledoSkoda Fabia, Roomster, RapidGeçmiş:02 oct 2018 v0.1 proje yüklemesi.07 Mayıs 2019 v0.2 iyileştirilmiş basılabilirlik.[IT] VW AG'nin parça parça bileşeni için yazılım desteği: 6R0 971 848 Kod ile birlikte
+orijinalinden daha sağlam olacak ve kolayca yazdırılabilecek şekilde değiştirildi. Seat Ibiza 6J'de test edildi. Uyumlu modeller: Volkswagen Golf, Polo, Derby, Vento, Jetta Audi A1 Seat Ibiza, Toledo Skoda Fabia, Roomster, Hızlı Tarih: 02 Ekim 2018 v0.1 proje yüklemesi. 07 Mayıs 2019 v0.2 iyileştirilmiş basılabilirlik.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Volkswagen elektrik kablo demeti tutucusu
+Kod / referans: 6R0971848
+Katalog veya kaynak adı: Volkswagen elektrik kablo demeti tutucusu

@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Audi A6 C5 sol far bağlantı braketi
+
+Özet:
+Audi A6 C5 sol far bağlantı braketi.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Audi A6 C5 sol far bağlantı braketi
+Kod / referans: 8L0941454
+Katalog veya kaynak adı: Audi A6 C5 sol far bağlantı braketi
+Açıklama: Adlandırma modelin işlevine göre yapılmıştır; araç üzerinde uyum testi yapılmamıştır. Önceki dosya adındaki 8L0947454 kodunda yazım hatası var; katalogdaki far braketi referansı 8L0941454.

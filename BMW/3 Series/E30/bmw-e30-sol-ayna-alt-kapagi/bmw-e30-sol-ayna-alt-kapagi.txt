@@ -1,0 +1,12 @@
+Kaizen Trim
+
+BMW E30 sol ayna alt kapağı
+
+Özet:
+Bmw E30 - ayna kabloları alt kapağı.OEM numaraları: sol taraf: [LHD] 51 16 1 937 441; [RHD] 51 16 1 937 443sağ taraf: [LHD] 51 16 1 937 442, [RHD] 51 16 1 937 444LHD için modellenmiştir. RHD için, oem numarası uyumluluğuna göre dilimleyicinizdeki modeli yansıtmanız yeterlidir. Örneğin: sağdan direksiyonlu araçta sürücü tarafı için "sol" modeli, sağdan direksiyonlu araçta yolcu tarafı için "sağ" modeli aynalamanız gerekir. Yerine mükemmel uyum sağlar. Kapak mandalları uzun ömürlü olsun diye güçlendirilmiştir, bu mandallarla birçok orijinal kapak buldum
+bozuk.Fusion360 kaynak dosyaları (*.f3d) eklendi.Güncelleme [16.01.23]:sol (LHD arabalar için) ve sağ (RHD arabalar için) modeller eklendi.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW E30 sol ayna alt kapağı
+Kod / referans: 51161937441
+Katalog veya kaynak adı: BMW E30 sol ayna alt kapağı

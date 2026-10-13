@@ -1,0 +1,13 @@
+Kaizen Trim
+
+Mercedes W202 orta konsol alt tepsisi
+
+Özet:
+⚠️ ÇALIŞMALAR DEVAM EDİYOR - TEST EDİLMEMİŞ TASARIM ⚠️Lütfen Dikkat: Bu model henüz gerçek bir araçta test edilmemiştir. Bunu ölçümlere ve referans fotoğraflarına dayanarak tasarladım, ancak fiziksel uygunluğu henüz kendim doğrulamadım. RİSKİNİZ KENDİNİZE AİT YAZDIRIN. Bunu yazdırmaya ve test etmeye karar verirseniz, lütfen bir yorum bırakın veya bulgularınızla birlikte bana mesaj bırakın! Boyutlar biraz hatalıysa veya açının ayarlanması gerekiyorsa bana bildirin, böylece komut dosyasını güncelleyebilir ve topluluk için modeli düzeltebilirim. Bu, Alt Kontrol Panelinin yedek muhafazasıdır
+Mercedes-Benz W202 C-Serisi (1993–2000) için Depolama / Orta Konsol. Radyo/iklim kontrollerinin altında bulunan ve sıklıkla kırılan depolama düzeneğinin (Parça Numarası 2026800591) yerini alır. Temel Özellikler: Parametrik Tasarım: Dahili OpenSCAD. Güçlendirilmiş Yapı: Orijinal OEM parçalarında yaygın olarak görülen çatlamayı önlemek için köşebentli köşelere ve sağlam bir alt kama tabanına sahiptir. Açılı Montaj: Üst montaj flanşı, ön panel çerçevesine yaslanacak şekilde 15 derece açılıdır. 12V Priz Hazır: Standart sigara için kesmeyi içerir
+çakmak/12V soket. Bu tasarım, çekmece/kaset tutucusu için üstte bir yuva ve altta büyük bir açık bölme içerir. Fabrika iskeletine göre daha temiz bir görünüm ve daha iyi bir yapısal bütünlük sağlamak için yanlar doldurulmuş ve düzleştirilmiştir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Mercedes W202 orta konsol alt tepsisi
+Kod / referans: 2026800591
+Katalog veya kaynak adı: Mercedes W202 orta konsol alt tepsisi

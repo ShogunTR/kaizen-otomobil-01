@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Land Rover Defender 90,110,130 Anahtar Paneli - 3 Anahtar
+
+Özet:
+Land Rover Defender'ın direksiyon simidinin sağında 3 anahtarın bulunduğu paneli değiştirmesi için ön panel çerçevesi.  Tamamen 2 parça halinde yapılmıştır çünkü Printrbot Simple cihazımda 1 parçada yazdırılamayacak kadar büyük. Ayrıca orijinal paneli 1 parça halinde içeren 1 parçalı bir dosya içerir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Land Rover Defender 90,110,130 Anahtar Paneli - 3 Anahtar
+Kod / referans: 265911
+Model açıklamasındaki ad: Land Rover Defender 90,110,130 Anahtar Paneli - 3 Anahtar
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

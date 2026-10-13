@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Land Rover Discovery 2 arka koltuk kilit açma mekanizması
+
+Özet:
+Land Rover Discovery 2 için arka koltuk ayırma konnektörü (Test edilmiş ve 2000 yılı modeline takılmıştır).LR parça numarası HWO100020CCG - Artık üretilmiyor. Benim için zorlu bir öğrenme süreci oldu ama sonunda oraya ulaştım.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Land Rover Discovery 2 arka koltuk kilit açma mekanizması
+Kod / referans: HWO100020CCG
+Katalog veya kaynak adı: Land Rover Discovery 2 arka koltuk kilit açma mekanizması

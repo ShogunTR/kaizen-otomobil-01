@@ -1,0 +1,15 @@
+Kaizen Trim
+
+Fiat pozitif akü kutup başı kapağı
+
+Özet:
+Fiat Lancia Alfa Romeo (ve muhtemelen Stellantis grubunun diğer markaları) için pozitif akü konektörünün kapağı. 00518965870 numaralı sigorta kutusuna takılan OEM n° 52013763 orijinal kapağın değiştirilmesi. (fotoğrafa bakın)Fiat 500x 1.6 Multijet 120ch üzerinde test edilmiştir Prototip için PLA'de basılmıştır, ancak ABS önerilir.Fiat Alfa-Romeo Lancia (ve belki diğer Stellantis Grup markası) için Pil Pozitif Terminal Kapağı Uyumluluk için fotoğraflara bakın
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Fiat pozitif akü kutup başı kapağı
+Kod / referans: 00518965870
+Katalog veya kaynak adı: Fiat röle sigorta kutusu
+Açıklama: Kod komple elektrik bağlantı grubuna aittir; mevcut 3D model akü artı kutup kapağıdır.
+Kod / referans: 52013763
+Model açıklamasındaki ad: Akü Pozitif Terminal Kapağı
+Açıklama: İnternet araştırmasında bu referansın kesin OEM karşılığı doğrulanamadı. Model açıklaması esas alındı; referans korunmuştur.

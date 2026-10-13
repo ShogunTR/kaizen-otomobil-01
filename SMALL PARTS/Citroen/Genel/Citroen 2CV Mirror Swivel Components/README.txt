@@ -1,0 +1,8 @@
+Kaizen Trim
+
+Citroen 2CV Ayna Döner Bileşenleri
+
+Özet:
+2CV'm ciddi şekilde kırılmış bir yan ayna döner montajıyla geldi. Yeni bir komple ayna satın alacak kadar ucuz, ancak herhangi bir şeyi atmaktan nefret ediyorum ve sadece döner montaj parçasının yedek parçaları yalnızca yurtdışında yeni-eski stok olarak mevcut ve nakliyeden önce 20 doların üzerinde bir maliyete sahip (kabul ediyorum, bu değiştirmeler şüphesiz benim yarattığımdan daha iyi). Her halükarda, yeni aynalarımın teslim edilmesini beklerken, OpenSCAD hakkında daha fazla bilgi edinmek için bir alıştırma olarak yedek bir döner kapak ve top tasarladım. Bu, orijinalinin tam bir kopyası değil.
+Citroen kısmı- Kırık montaj parçasına göz attım ve oldukça yaklaşmaya çalıştım. Dışarıdan dişli paslanmaz M5 cıvata başlı paslanmaz M5 cıvata ile çalışacak şekilde tasarlanmıştır.Resimlerde Burton reprodüksiyon aynasının yanındaki bu döner hazneli bir ayna gösterilmektedir.Gerekli diğer parçalar:1 M5 (5mm) düğme başlı cıvata, 40 mm uzunluğunda, paslanmaz çelik1 M5 kilitli somun (naylon uçlu paslanmaz)2 M5 dalgalı rondelalar3 M5 düz pullarBir araya getirme: Kolu dış kısmın yan tarafına yerleştirin, ardından iplik geçirin
+cıvatayı bu kısımdan (ve koldan) geçirin. Cıvata daha sonra ayna mahfazasından geçerek iç bilye kısmına geçer. Cıvatanın üzerine şu sırayla geçirin: 1 düz, 1 dalgalı, 1 düz, 1 dalgalı, 1 düz, 5mm somun.  Dalgalı pullar çoğunlukla düz olana kadar cıvatayı somunun içine sıkın. Bu, sabit bir gerilim oluşturacak ve yeniden sıkmadan bir miktar aşınmaya izin verecektir. Diğer bazı notlar: Kolun bardağa sağlam bir şekilde tutunması için bağlandığı yere biraz süper yapıştırıcı sürmeniz gerekebilir. Sadece sürtünmeye uygundur ve tutulur

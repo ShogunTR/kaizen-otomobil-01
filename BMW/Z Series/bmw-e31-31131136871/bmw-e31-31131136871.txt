@@ -1,0 +1,12 @@
+Kaizen Trim
+
+BMW E31 31131136871
+
+Özet:
+BMW E31 için Sol Rot Kolu 31131136871 bugünlerde BMW'nin NLA ürünüdür. Parçayı CR Scan 01'i kullanarak taradım. Model boyutsal olarak doğrudur. delikler biraz sevgiye ihtiyaç duyabilir. İlgili tüm mesh, step ve FreeCAD dosyalarını ekledim. Çalıştığını doğrulamak için modeli 3d yazıcıda yazdırabilirsiniz. o zaman yazdır
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW E31 31131136871
+Kod / referans: 31131136871
+Katalog veya kaynak adı: BMW E31 sol direksiyon bağlantı kolu
+Açıklama: Kod katalogda sol direksiyon bağlantı kolu olarak geçer; mevcut 3D modelin aynı parçayı temsil ettiği yalnızca koddan kesinleşmez.

@@ -1,0 +1,14 @@
+Kaizen Trim
+
+BMW Koltuk Rayı Kapağı
+
+Özet:
+Bu, OEM parçasının bir varyasyonudur çünkü yedek parçanın maliyeti çok yüksektir.  OEM parçasını yaklaşık olarak hesapladım.  STL ve OBJ dosyası sağ yan kapağı içerir.  Sol tarafı oluşturmak/yazdırmak için yazıcınızın yazılımındaki ayna işlevini kullanabilirsiniz.  Orijinal kılıfımı kırdım, muhtemelen bir giysi parçasından kırılmış.  Araçta sadece dış ray kapakları olduğu için bunlardan 3 adet (2 RH ve 1 LH) bastırdım, artık tüm koltuk raylarımda kapak var.  Kırmızı PLA kapak fotoğrafı
+prototip.  Son tasarımımı siyah PLA ile yazdırdım ve çok iyi uyuyorlar, ancak eğer yapabiliyorsanız ABS veya PETG+ ile yazdırmanızı tavsiye ederim.  LH için BMW PN'si 52107314013 ve RH'si 52107314014'tür (RealOEM.com'a göre).  Bunu sadece spor koltuklu 2020 230i F22'nin raylarına taktım.  İnternet aramasına göre bu kapak, 2014 - 2021 model yılı 2 Serisi BMW'ye uygun olmalıdır.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW Koltuk Rayı Kapağı
+Kod / referans: 52107314013
+Katalog veya kaynak adı: BMW sol dış koltuk rayı kapağı
+Kod / referans: 52107314014
+Katalog veya kaynak adı: BMW sağ dış koltuk rayı kapağı

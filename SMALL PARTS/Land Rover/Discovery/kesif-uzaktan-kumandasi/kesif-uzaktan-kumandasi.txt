@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Keşif uzaktan kumandası
+
+Özet:
+Land Rover Discovery uzaktan kumandası için düğmeler.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Keşif uzaktan kumandası
+Kod / referans: 837559
+Model açıklamasındaki ad: Keşif uzaktan kumandası
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

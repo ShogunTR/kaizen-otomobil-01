@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Peugeot 307 far arka kapağı
+
+Özet:
+Bunu kaybettiğim orijinal Peugeot 307 far iç kapağının yerine koymak için yaptım. (Peugeot ürün numarası 40840509) Uyuyor ve iki yıldır çalışıyor. Arabanın motor bölmesinde kullanmanın güvenli olduğunu garanti edemem. Yani kullanmak sizin sorumluluğunuzdadır. Bu detay iki malzemeden oluşmaktadır. Biri nispeten sert plastikten, diğeri ise kauçuk gibi esnek. Farkı fotoğraflarda görebilirsiniz. Fotoğraflarda hem orijinal hem de bana ait detaylar bulunmaktadır. PETG ve TPU95 ile yazdırdım.
+dilimleyin, filament değişikliği için bir duraklama yapın. Ve %100 dolgu ile duraklamanın çevresine iki katman yazdırın. Bu, iki malzeme arasındaki tabaka yapışmasını daha iyi hale getirecektir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Peugeot 307 far arka kapağı
+Kod / referans: 40840509
+Katalog veya kaynak adı: Peugeot 307 far arka kapağı

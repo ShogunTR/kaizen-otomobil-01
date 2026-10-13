@@ -1,0 +1,14 @@
+Kaizen Trim
+
+Volkswagen sis lambası anahtar soket gövdesi
+
+Özet:
+VW 161941767'nin yerine 171941535A anahtarıyla kullanılan konnektör muhafazası. Bu modelin uçları malzeme sınırlamalarından dolayı orijinalinden daha kalın ve daha kısadır. Anahtarımla ilgili bir sorun yok, ancak diğer partnerlerdeki diğer anahtarlarla ilgili olabilir. Modelin yazdırma için desteğe ihtiyacı var. yazıcımda çirkin bir yüze neden oldu. Dilimleyicide ayarlamanız gerekebilir. Tasarımda paylaşılan FASTIN-FASTON konnektörlerinin detaylarını ve mesh kısımlarını yeniden kullandım.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Volkswagen sis lambası anahtar soket gövdesi
+Kod / referans: 161941767
+Katalog veya kaynak adı: Volkswagen sis lambası anahtar soket gövdesi
+Kod / referans: 171941535A
+Model açıklamasındaki ad: VW sis farı anahtarı konnektör muhafazası
+Açıklama: İnternet araştırmasında bu referansın kesin OEM karşılığı doğrulanamadı. Model açıklaması esas alındı; referans korunmuştur.

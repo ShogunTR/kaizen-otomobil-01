@@ -1,0 +1,8 @@
+Kaizen Trim
+
+JDM plaka Adaptör - Subaru Legacy B4/GTB
+
+Özet:
+JDM subaru'ma sığması için plaka'mde bir delik açmak zorunda kaldım. Muhtemelen yasadışı olduğunu biliyorum ama yine de onu tek bir cıvatayla tutmaktan daha iyi. Bulduğum tüm metal adaptörlerin maliyeti 20 doların üzerinde olduğundan kendi adaptörümü tasarlamaya karar verdim, bu size yaklaşık bir inçlik oyun alanı sağlayacak (27 mm). Bu Adaptör, Kanadalı (veya NA) plaka'yi JDM aracınıza takmanıza olanak tanır. Subaru Legacy B4/GTB'm için tasarlandı. Daha büyük delik M6 cıvata içindir, daha küçük olan ise plaka'yi tutmak için bir M5'dir; bunun için bir pula ihtiyacınız olacaktır.
+Aynı zamanda plaka için M6 vidası olan diğer tüm araçlarda da çalışacaktır. İhtiyacınız olan tek şey: 1 adet M5x10mm cıvata, somun ve rondela (veya kilit pulu) 1 adaptör ve ara parça Nasıl kurulur: Adaptör ve ara parçadan birini yazdırın, M5 somununu T yuvasına yerleştirin ve adaptörü arabanıza takın, sıkın. Gevşek bir şekilde takın. plaka adaptörün üzerine takın. Diğer delik için doğru konumu bulana kadar plaka'nizi kaydırın ve orijinal vidayı ara parçasıyla birlikte plaka'nin arkasına takın. M5 cıvatasını sıktıktan sonra
+diğer taraf takılı. Not: Kendimdeki xy adımları/mm'yi kalibre etmediğim için delikleri 0,2 mm büyüttüm. Ancak ne olursa olsun çalışmalıdır. Biri çalışmazsa, ikisini yazdırın. Herhangi bir şeyi değiştirmeniz gerekirse, katı çalışma dosyasını da yükledim. Profesyonel değilim, tasarımımla ilgili herhangi bir sorunla karşılaşırsanız lütfen bana bildirin. Özel bir isteğiniz varsa, yorum bırakın, sizin için bir tane özelleştirmeye çalışabilirim.

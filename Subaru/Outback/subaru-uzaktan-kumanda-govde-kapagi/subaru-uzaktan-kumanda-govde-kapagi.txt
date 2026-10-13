@@ -1,0 +1,16 @@
+Kaizen Trim
+
+Subaru uzaktan kumanda gövde kapağı
+
+Özet:
+Subaru uzaktan vericimin pil kapağı kırılmıştı.  Bir "standart" değiştirme ve bir "isteğe bağlı" değiştirme oluşturdum.  Stok versiyonun anahtarlığın takıldığı yerde zayıf bir noktası olduğu için "isteğe bağlı" versiyonu tercih ediyorum.  Subaru parça numarası için yedek kapak: 88035AC231 GÜNCELLEME 1/31/15:My Anahtarlarımı düşürdükten sonra uzaktan kumanda çalışmayı durdurdu.  Sorunu kapağımdaki zayıf pil tutma tırnağına kadar takip ettim.  Bu yüzden tutma tırnağı duvar kalınlığını artırdım 1 mm ila 1.5 mm.  Tüm dosyalar güncellendi.    Olması gerekiyor
+Aşağıdaki araçlara uygun: 2004 Subaru Forester2004 Subaru Impreza2004 Subaru Legacy2004 Subaru Outback2003 Subaru Forester2003 Subaru Impreza2003 Subaru Legacy2003 Subaru Outback2002 Subaru Forester2002 Subaru Impreza2002 Subaru Legacy2002 Subaru Outback2001 Subaru Forester2001 Subaru Impreza2001 Subaru Legacy2001 Subaru Outback
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Subaru uzaktan kumanda gövde kapağı
+Kod / referans: 88035AC231
+Katalog veya kaynak adı: Subaru uzaktan kumanda anahtar gövdesi
+Açıklama: Kod uzaktan kumanda anahtar gövdesine aittir; mevcut model bu gövdenin kapağıdır.
+Kod / referans: 283409
+Model açıklamasındaki ad: Subaru uzaktan kumanda gövde kapağı
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

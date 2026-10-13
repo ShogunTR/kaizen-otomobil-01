@@ -1,0 +1,8 @@
+Kaizen Trim
+
+2018 GMC Yukon Denali yolcu yan ayna kapağı
+
+Özet:
+Yolcu tarafı ayna kapağımdaki küçük kelepçe kırıldı, yedek vizörün fiyatı 200 dolar, bu yüzden biraz zaman ayırdım ve bunu tasarladım, ABS'den çıktı aldım ve işe yarıyor. Ortadaki tırnağa bir miktar iletken bant eklemeniz gerekir (fabrikadaki tırnağa bakın), böylece yukarı kaldırıldığında devreyi kapatır ve ışıklar yanar. Bu, güneşliğin nasıl söküleceği konusunda harika bir eğitimdir: https://www.gmfullsize.com/threads/how-to-nnbs-visor-disassembly.217057/ Ancak kapağı değiştirmek için kapalı konumda yukarı kaydırmanız yeterlidir; dışarı çıkması gerekir. Yenisini takarken işlemi tersten yapın. Yavaşça bir tornavida kullandım
+tırnakların kırılmaması için onu kaldırın. Aynı güneşliği paylaşan tüm modellere uyması gerekiyor ama arabamın açılır tavanı var ve o güneşlik biraz farklı. Sürücü tarafına uyup uymadığını kontrol etmedim ama öyle olacağını varsayıyorum, belki de onu aynalamanız gerekir. Bir deneyin :-) Arabanın içi ısınabileceğinden ABS veya ASA'yi şiddetle tavsiye ederim! 45 derecelik bir açıyla yazdırın, stabilite için destekleri (eklenenin üstüne) etkinleştirin. FlashForge AD5X üzerine basılmıştır (muhafaza ve Hepa Kanal moduyla)Baskı ayarları:0,4 mm püskürtme ucu, 0,20 mm katman
+YükseklikKalite:Duvarlar yazdırma sırası: İç/Dış/İç Baskı dolgu ilkGüç:Duvar döngüleri: 5%15'te alternatif ekstra duvar Gyroid dolgu Dikey kabuk kalınlığını sağlayın: OrtaDestek:Etkin, Ağaç, Ağaç İnceÜst Z mesafesi: 0,3 mmAlt Z mesafesi: 0,3 mmTemel desen: İçi BoşDestek/nesne xy mesafe: 0,5 mmDestek/nesne ilk katman aralığı: 0,4 mmDiğer: Kenar: Otomatik

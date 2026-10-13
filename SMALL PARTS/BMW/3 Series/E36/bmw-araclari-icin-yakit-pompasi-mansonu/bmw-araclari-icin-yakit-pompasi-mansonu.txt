@@ -1,0 +1,12 @@
+Kaizen Trim
+
+BMW araçları için Yakıt Pompası Manşonu
+
+Özet:
+Daha yüksek akışlı bir pompaya (örneğin, Walbro, TRE, vb.) yükseltme yaparken veya pahalı stok pompayı sayısız ucuz alternatiften herhangi biriyle değiştirirken, stok pompa taşıyıcısını daha küçük çaplı üniversal pompalara uyarlamak ve uygun yüksekliğe yerleştirmek için muhtemelen bir aralama manşonuna ihtiyacınız olacaktır. Çevrimiçi olarak çeşitli işlenmiş alüminyum parçalar mevcuttur, ancak oldukları şeye göre oldukça pahalıdırlar (2-3 makara filament naylon satın almaya yetecek kadar). 3D baskı imdadınıza yetişiyor!e34 ile uyumluluğunu teyit edin.  Bu rolde parça benzine batırılacağından ABS veya PLA KULLANAMAZSINIZ! Benimkini Taulman 618 Naylon ile 245C / 70C'de bir MBI 2X üzerinde iyi sonuçlarla yazdırdım. Sığ çıkıntı açıları göz önüne alındığında destek gerekli olmamalıdır. V1 ve v2 arasındaki tek fark, eğer onsuz çalışacağından endişeleniyorsanız, paslanmaz çelik hortum kelepçesini tutmak için tasarlanmış alt kısımdaki çevre girintisidir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW araçları için Yakıt Pompası Manşonu
+Kod / referans: 802382
+Model açıklamasındaki ad: BMW araçları için Yakıt Pompası Manşonu
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

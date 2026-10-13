@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Land Rover kaput destek çubuğu burcu
+
+Özet:
+Discovery II'deki JLR parçası AYA10004L'nin yedeği. Orijinal, ölçülerde ve referans fotoğraflarında eksik olduğundan tasarlandı. Esnek filament ile baskı için güncellenmiş bir tasarım eklendi. Ninjatek Ninjaflex ve Cheetah ile test edilmiştir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Land Rover kaput destek çubuğu burcu
+Kod / referans: AYA10004L
+Katalog veya kaynak adı: Land Rover kaput destek çubuğu burcu

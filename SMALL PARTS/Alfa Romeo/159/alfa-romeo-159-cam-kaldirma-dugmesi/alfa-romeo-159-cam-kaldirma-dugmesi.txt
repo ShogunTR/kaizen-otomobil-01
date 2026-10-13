@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Alfa Romeo 159 cam kaldırma düğmesi
+
+Özet:
+Bu parçayı arka cam kaldırma düzeneğindeki küçük düğmelerin yerine koymak için yaptım, çünkü onları ayrı ayrı alamıyorsunuz ve tamamen yeni bir mekanizma satın almak biraz abartılı görünüyor. Umarım bu aynı sorunu yaşayan başkalarına yardımcı olabilir!
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Alfa Romeo 159 cam kaldırma düğmesi
+Kod / referans: 71740195
+Katalog veya kaynak adı: Alfa Romeo 159 cam kaldırma düğmesi

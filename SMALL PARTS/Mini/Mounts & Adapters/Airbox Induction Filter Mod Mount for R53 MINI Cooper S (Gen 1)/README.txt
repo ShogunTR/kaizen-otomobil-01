@@ -1,0 +1,8 @@
+Kaizen Trim
+
+R53 MINI Cooper S (Gen 1) için hava filtresi kutusu İndüksiyon Filtresi Mod Montajı
+
+Özet:
+dişli MODU Bu parça, R53 Mini Cooper S'nize sıfır hasar ve sıfır dış görünürlük ile bir endüksiyon filtresi takmanıza olanak tanır. Standart R53 hava filtresi kutusu'nize sıkıca oturacak şekilde tasarlanmıştır. Tutkal veya cıvata gerekmez. Takıldıktan sonra, normal bir kağıt panel filtresi yerine hava kutunuzun içine K&N RU-3190 (gösterilen) gibi uygun bir 72 mm'lik endüksiyon filtresini sıkıştırabilirsiniz. Bir endüksiyon filtresinin avantajı, (tartışmasız) benzer filtreleme seviyeleriyle daha fazla hava akışıdır. Bu mod hava akışı alanını 60 mm'den 54 mm'ye düşürür
+kesit alanında %20'lik devasa bir kayba karşılık gelen kutu çıkışının içinde. İdeal değil! Ancak bu kısıtlama gerçek bir kısıtlamadan ziyade yalnızca yüksek basınç bölgesi oluşturmalıdır çünkü çok kısa ve kavislidir. Genel olarak akış iyileşmelidir. Eğer hala daha iyi bir akış arıyorsanız, buna tercih olarak R53OC Tim Woodford Mod'u veya özel bir hava filtresi kutusu'yi şiddetle tavsiye ederim, ancak eğer benim gibi, ucuz ve kolay bir şekilde Hobo Mod istiyorsanız, yapımın tadını çıkarın! -------------- GÜNCELLEME --------------Bunu iki aydır kullanıyorum
+Arabada herhangi bir sorun yok ama...Sürekli ısıtma ve soğutmanın baskının biraz küçülmesine neden olabileceğini fark ettim. Bu nedenle yapıştırmanızı veya yerine yapıştırmanızı şiddetle tavsiye ederim. İkincisi, aynı büzülme, hava filtresinin gevşeyerek düşmesine neden olabilir. İlk hafta boyunca sık sık kontrol edip yeniden sıkarsanız bu durum durur. Alternatif olarak (denenmemiş), bunu yüzde birkaç daha büyük olarak basıp ardından sıcak bir fırında önceden küçültmeye değer olabilir. Büzülme şüphesiz değişecektir

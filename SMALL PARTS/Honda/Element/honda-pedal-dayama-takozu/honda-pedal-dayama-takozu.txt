@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Honda pedal dayama takozu
+
+Özet:
+Bu parçayı Fusion 360'ta orijinal parçam parçalanıp fren pedalı ışıklarımın bütün gece açık kalmasından sonra tasarladım. Orijinal parça 9 dolardı ve otomotivdeki her şey kapalıydı, ben de doğaçlama yaptım. Bu parça Esnek filamentde basılmak üzere tasarlandı. Priline TPU kullandım. Ölçüler Mitutoyo Absolute Digimatic ile alınıp ayarlandı. Bu kısım 16 mm genişliğinde ve ped 4 mm kalınlığındadır. Arka çivi sadece onu yerinde tutar. Eski parçanın ön panelin altında olduğu deliğe itebilirsiniz. Fit: 2005 Honda Element., Mayıs
+Acura üzerinde de çalışıyorum. Test ederseniz bana bildirin. OEM Parça Honda Parça No. 46505-SA5-000 #13 Araç Şeması aracılığıyla 46505-SA5-000 - PED, PEDAL DURDURUCUDorman 74015
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Honda pedal dayama takozu
+Kod / referans: 46505-SA5-000
+Katalog veya kaynak adı: Honda pedal dayama takozu

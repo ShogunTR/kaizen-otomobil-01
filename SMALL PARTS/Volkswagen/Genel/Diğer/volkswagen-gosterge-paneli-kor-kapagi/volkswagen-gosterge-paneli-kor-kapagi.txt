@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Volkswagen gösterge paneli kör kapağı
+
+Özet:
+Bu klasör, adı belirtilen parçaya ait arşiv dosyalarını içerir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Volkswagen gösterge paneli kör kapağı
+Kod / referans: 861957087
+Katalog veya kaynak adı: Volkswagen gösterge paneli kör kapağı

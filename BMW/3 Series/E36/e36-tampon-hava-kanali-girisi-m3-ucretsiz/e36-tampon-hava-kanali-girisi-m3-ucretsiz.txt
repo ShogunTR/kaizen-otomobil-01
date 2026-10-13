@@ -1,0 +1,15 @@
+Kaizen Trim
+
+E36 tampon Hava Kanalı Girişi - M3 - ÜCRETSİZ
+
+Özet:
+Merhaba! Bunu vereni görmedim 3D ücretsiz çevrimiçi dosya. Yani kurtarma maceramda $40, muhtemelen harcadım 60 Bu modelin ölçülmesi, modellenmesi, değiştirilmesi ve yeniden düzenlenmesi saatleri. ÜCRETSİZ ÜCRETSİZ ÜCRETSİZ, model için başka bir yere ödeme yapmayın. Tasarım mükemmel değil ama bunu cihazıma yükledim M3 bir yılı aşkın süredir tampon kullanıyorum 8k mil ve hıza kadar 110mph herhangi bir sorun olmadan. Bu tasarım klipslenecek M3 Tamponun üzerindeki orijinal tırnakları kullanarak herhangi bir ek donanıma ihtiyaç duymadan tampon yapabilirsiniz.
+Gerçekten endişeleniyorsanız küçük bir ayar vidası ekleyebilirsiniz. Çıkış boyutunu unuttum, 3 inçlik bir kanala uyması gerektiğini düşünüyorum. Ben bunu yalnızca tampondeki dev delikleri kapatmak için kullandım ama siz kanalları frenlerinize yönlendirmek için kullanabilirsiniz. PETG kullanarak hiçbir bilgi olmadan yazdırdım. Daha yüksek erime sıcaklığına ve UV korumasına sahip ABS, PETG veya bazı filamentyi kullanırdım. Hem sol hem de sağ tarafı yazdırmak için modeli aynalamanız gerekecektir. Değişiklikleri kendiniz yapmak istiyorsanız orijinal Solidworks dosyasını (.SLDPRT) da ekledim. Herkese iyi şanslar!Değiştirir
+parçalar BMW parça numarası 51712233361 (51-71-2-233-361) ve BMW parça numarası 51712233362 (51 71 2 233 362) olarak
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: E36 tampon Hava Kanalı Girişi - M3 - ÜCRETSİZ
+Kod / referans: 51712233361
+Katalog veya kaynak adı: BMW E36 sol ön fren hava kanalı
+Kod / referans: 51712233362
+Katalog veya kaynak adı: BMW E36 sağ ön fren hava kanalı

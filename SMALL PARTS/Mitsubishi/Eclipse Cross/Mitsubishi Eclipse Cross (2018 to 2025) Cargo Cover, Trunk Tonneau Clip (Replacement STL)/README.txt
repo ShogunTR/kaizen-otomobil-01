@@ -1,0 +1,9 @@
+Kaizen Trim
+
+Mitsubishi Eclipse Cross (2018 - 2025) Kargo Kapağı, Bagaj Tonneau klips (Yedek STL)
+
+Özet:
+Mitsubishi Eclipse Cross (2018–2025) – Kargo Kapağı / Bagaj Tonneau klips (Yedek STL) Bu, Mitsubishi Eclipse Cross (2018–2025) üzerindeki kargo kapağı (bagaj/bagaj kasası kapağı) için yedek plastik klips/tutucudur. Kargo kapağının kenarını içeride tutmak için tasarlanmıştır. tıpkı fotoğraflarda gösterilen orijinal parça gibi, aracın yan tarafına/destek noktasına yerleştirin; böylece gevşemeyi, çıngırakları ve titreşimi ortadan kaldırın.✅ Araç donanımı: Mitsubishi Eclipse Cross 2018–2025 (lütfen daha önce OEM parçanızla karşılaştırın)
+yazdırma)✅ Amaç: kargo kapağını (tonneau) bagaj alanına sabitleyin/sabitleyin✅ Kullanım durumu: kırık/çatlak/eksik OEM plastik klipsin yerini alır KurulumHasarlı/eksik klipsyi (hala mevcutsa) çıkarın.Basılı parçayı OEM klips ile aynı konuma yerleştirin.Aynı şekilde sabitleyin orijinali gibi (kargo kapağınıza bağlı olarak vida/klips-in). Yerleştirmeyi test edin ve gerekirse ayarlayın (temas yüzeylerindeki hafif zımparalama genellikle sıkı geçmeleri çözer).Baskı önerileriMalzeme: PETG (önerilir) veya ABS/ASA
+(ısı için daha iyi). PLA çalışabilir ancak sıcak arabalarda deforme olabilir.dolgu: %40–70 (ekstra sert istiyorsanız daha yüksek) Çevreler/Duvarlar: 4+katman yüksekliği: 0,2 mmYönlendirme: “kanca/klips” alanı güçlü destek katmanına sahip olacak şekilde yazdırın klips yalnızca katman yapışmasına güvenir).Son işlem: mükemmel uyum için hafif zımparalama.NotlarOrijinal bir parçadan ve aracımdan alınan ölçümlerden modellenmiştir. Kesimler/yıllar/üretim partileri arasında küçük farklılıklar olabilir. Çok sıkıysa: hafifçe zımparalayın. Çok gevşekse: XY'yi deneyin
+dilimleyicinizde telafi edin veya daha kalın duvarlarla yeniden yazdırın. Yasal Uyarı Bu, resmi olmayan bir 3D baskılı yedek parçadır ve Mitsubishi'ye bağlı değildir. Riski size ait olmak üzere kullanın.

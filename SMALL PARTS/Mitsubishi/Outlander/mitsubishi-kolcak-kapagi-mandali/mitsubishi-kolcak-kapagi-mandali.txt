@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Mitsubishi kolçak kapağı mandalı
+
+Özet:
+Bu parçaya ihtiyacım vardı, o yüzden kendim yaptım çünkü burada bulamadım. Parça numarası: 8011B549 (sol) Bu, Mitsubishi'nizdeki kol dayanağınız için kullanılabilecek bir klipsdir (kapağı kapalı tutmak için). Bunu destekler, PETG ve %40 dolgu ile yazdırdım. Unutmayın, bu soldaki (sağ tarafta farklı bir klips var, onu kırmadı, dolayısıyla onun için dosya yok).
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Mitsubishi kolçak kapağı mandalı
+Kod / referans: 8011B549
+Katalog veya kaynak adı: Mitsubishi kolçak kapağı mandalı

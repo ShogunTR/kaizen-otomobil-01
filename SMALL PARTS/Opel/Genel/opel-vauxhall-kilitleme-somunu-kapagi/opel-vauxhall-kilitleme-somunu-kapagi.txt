@@ -1,0 +1,14 @@
+Kaizen Trim
+
+Opel/Vauxhall Kilitleme somunu kapağı
+
+Özet:
+Bu, Opel / Vauxhall araçları için özel olarak tasarlanmış bir kilitleme somunu kapağıdır. Kilitli bijon somunları için orijinal kapakları satın almak neredeyse imkansızdır ve mevcut satış sonrası seçenekler, doğru şekilde uymayan farklı tipteki kilitleme cıvataları için yapılmıştır. Bu kapaklar, Opel / Vauxhall'da kullanılan standart 17 mm uzunluğunda somun kapaklarıyla eşleşirken, ~25,4 mm çapında (benim parça numaram 9162914'tü) kilitli bijon somunlarına sıkı bir şekilde oturacak şekilde tasarlanmıştır. tekerlekler. Bu sayede tüm bijon somunlarınız tekrar aynı görünür.⚠️ Not: Toleranslara bağlı olarak,
+Bazen kapak ile somun arasında küçük bir boşluk olabilir. Bu durumda, kapağı sıkıca yerinde tutmak için kapağın içine küçük bir parça 3M çift taraflı bant uygulayabilirsiniz.Baskı önerisi:En iyi dayanıklılık ve yüzey kalitesi için kapağı yanlara doğru yazdırın (STL dosyasında yönlendirildiği gibi). Üzerinde bir tür destek olduğundan emin olun!Son işlem (dayanıklılık ve son kat için isteğe bağlı):Baskıdan sonra pürüzsüz zımparalayın.Püskürtme dolgusu/macun kat uygulayın.Tekerlek temizleyicilerine karşı daha iyi direnç için taban kat + şeffaf kat ile bitirin
+ve yol enkazı.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Opel/Vauxhall Kilitleme somunu kapağı
+Kod / referans: 9162914
+Katalog veya kaynak adı: Opel kilitli bijon takımı
+Açıklama: Kod komple kilitli bijon takımına aittir; mevcut model bijon kapağıdır.

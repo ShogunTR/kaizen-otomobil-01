@@ -1,0 +1,11 @@
+Kaizen Trim
+
+BMW silecek kolu kapağı
+
+Özet:
+Bmw E30\E28 - silecek kolu burcu (soldan direksiyonda yolcu tarafı ve sağdan direksiyonda sürücü tarafı için).OEM numarası: 61 61 1 370 387Yerine mükemmel şekilde oturuyor.Fusion360 kaynak dosyası (*.f3d) eklendi.Güncelleme [04.09.24]:şekil güncellendi, artık orijinal parçanın bir kopyası.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW silecek kolu kapağı
+Kod / referans: 61611370387
+Katalog veya kaynak adı: BMW silecek kolu kapağı

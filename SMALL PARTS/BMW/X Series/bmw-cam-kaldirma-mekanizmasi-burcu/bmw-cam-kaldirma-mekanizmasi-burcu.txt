@@ -1,0 +1,11 @@
+Kaizen Trim
+
+BMW cam kaldırma mekanizması burcu
+
+Özet:
+Bmw e46 ve e53'te Windows regülatörü için onarım parçası.Orijinal parçanın maliyeti 5,20€ veya 10 dk 3d baskı.10 NM stabil.Pas yok.M6 vida dişi eklemek için vida dişi aletine ihtiyacınız var.Lütfen yüksek sıcaklığa dayanıklı filament kullandığınızdan emin olun veya PLA için tavlamayı deneyin. PLA yaz güneş ışığına dayanacak kadar dayanıklı değildir. Arabamdaki baskılı parçalardan biri kırıldı
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW cam kaldırma mekanizması burcu
+Kod / referans: 51338242760
+Katalog veya kaynak adı: BMW cam kaldırma mekanizması burcu

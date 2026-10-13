@@ -1,0 +1,12 @@
+Kaizen Trim
+
+BMW iç trim çevirme kilidi
+
+Özet:
+Tasarladığım E30 için NLA olan veya bazı plastik klipslar (51161932255) için çılgınca pahalı olan bazı BMW iç mekan klipslar'yi paylaşıyorum. Bunlar fabrikaya oldukça yakın görünüyor ve iç kaplamayla iyi uyum sağlıyor. Muhtemelen otomotivdeki çoğu itmeli veya döndürmeli klips uygulamasında çalışabilir. Uzun olanlar vites değiştirme/orta konsol içindir ve güvenlik duvarının yanına girer. 2 adet gereklidir. Daha kısa olanlar, Tach'ın hemen altına takılan e30 sürücü tekmesi/diz paneli içindir. 3 adet gerekli. %30 dolgude 0,16 mm yukarıyı gösteren tırtıklı dübel ile yazdırın (kübik kullandım), hayır
+destekler gereklidir. Tırtıklı ek parçayı yatay olarak kullanmak için 1/4 #6 düz uçlu bir tornavida kullanın ve kilitlemek için 90 CW ve kilidi açmak için 90 CCW çevirin.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW iç trim çevirme kilidi
+Kod / referans: 51161932255
+Katalog veya kaynak adı: BMW iç trim çevirme kilidi

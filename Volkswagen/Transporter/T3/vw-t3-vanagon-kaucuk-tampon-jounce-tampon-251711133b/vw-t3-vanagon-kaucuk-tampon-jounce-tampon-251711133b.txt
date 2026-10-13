@@ -1,0 +1,13 @@
+Kaizen Trim
+
+VW T3/Vanagon - Kauçuk tampon // Jounce tampon - 251711133B
+
+Özet:
+Jounce tampon (Durdurma Plakası) 251711133B VW T3 / vanagon [4 091] / 4 vitesli vites değiştirici ~ 1983 için Parçanın yaklaşık boyutlarını ETKA'ya ve kolum braketye dayandırdım. Kalınlık (3,15 mm) TheSamba .3 versiyonlarında bulunan bir direkten gelir: Kare, eğimli, olmadan ve ile doku (gres kavramaları ve kol kızakları için daha iyi)Bu parçayı Audi 80/90/100'de buluyoruz.--Dosyalar: STL ve OpenSCAD kaynakları mevcut (OpenSCAD V. 2017.11.12 kullanıyorum).Butée kauçuk / Tampon 251711133B, VW T3 jusqu'a boite 4 091 (~ 1983) 4 için vitesses.Je ben
+ETKA'yı temel alıyorum ve parçanın boyutlarını yaklaşık olarak tahmin etmek için destek kolumu karşılaştırıyorum. Kalınlık (3,15 mm) TheSamba'da bulunan bir direkten gelmektedir. 3 versiyon: kare şekil, dokusuz ve dokulu eğimli (böylece gres kavraması ve kol daha iyi kayar) Not: Bu parça Audi 80/90/100'de bulunur.--Dosyalar: STL ve OpenSCAD kaynakları mevcuttur (OpenSCAD V. 2017.11.12 kullanıyorum)
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: VW T3/Vanagon - Kauçuk tampon // Jounce tampon - 251711133B
+Kod / referans: 251711133B
+Model açıklamasındaki ad: VW T3/Vanagon - Kauçuk tampon // Jounce tampon - 251711133B
+Açıklama: İnternet araştırmasında bu referansın kesin OEM karşılığı doğrulanamadı. Model açıklaması esas alındı; referans korunmuştur.

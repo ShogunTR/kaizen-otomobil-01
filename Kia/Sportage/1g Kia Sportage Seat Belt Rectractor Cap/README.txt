@@ -1,0 +1,9 @@
+Kaizen Trim
+
+1g Kia Sportage Emniyet Kemeri Toplayıcı Kapağı
+
+Özet:
+2 kapılı Kia Sportage'da emniyet kemeri toplayıcı kapağının parçalanması gibi yaygın bir sorun vardır. Kapak, saat yayının hizalı ve yerinde tutulmasından sorumludur. Bu parça oem kapağının yerini alıyor. Yayın ortasındaki ortadaki plastik parçayı yeniden takmanız ve yayı dikkatlice geri sarmanız gerekecektir. Eldiven ve göz koruması kullanın. O bahar seni kesebilir. Yayı geri tepmek için çok yavaş hızda bir matkap kullandım.   düz kafalı bir ataşman ortadaki plastik parçaya gevşek bir şekilde oturur. Bunu riski size ait olmak üzere yaparsınız. Ah, ve
+Kia'nın kullandığı plastik perçinleri değiştirmek için çok küçük makine vidalarına (cıvatalara) ve somunlara ihtiyacınız olacak. Ayrıca zamanla toza dönüşürler. Bu bağlantı elemanları Ace gibi bir hırdavatçıda bulunabilir. tam boyutunu bilmiyorum. Önce baskıyı almanızı ve ardından uygun bir vida bulmak için parçalarınızla birlikte parça mağazasına gitmenizi öneririm. Bağlantı elemanlarını takmak için toplayıcının deliklerini hafifçe delmeniz gerekebilir. Bunları hafifçe birbirine tutturun ve belki bir miktar hafif dereceli kilitlemeyi öneririm. Bunu çok sıkı sıkmak istemezsin ama
+siz de parçalanmasını istemezsiniz. Baskının PLA veya diğer düşük sıcaklıklı malzeme değil, ABS olması gerekir. Çarpıklığın meydana gelebileceği sıcak bir arabada olacak. ABS benimkini 3 yıldan fazla bir süredir gayet iyi sürdürüyor. Bu baskı hem sol hem de sağ için çalışır. Baskıyı diğer tarafın bir tarafına yansıtmanıza gerek YOKTUR. tam olarak mükemmel bir uyum olmasa da oldukça iyi çalışıyor ve önemli olan da bu. Umarım bu benim için olduğu gibi başkalarına da yardımcı olur. Bunu tasarlayıp kendi 2002 2dr Kia Sportage aracıma uygun bir şekilde uygulamak çok eğlenceliydi.
+"Üstsüz" adını aldı.

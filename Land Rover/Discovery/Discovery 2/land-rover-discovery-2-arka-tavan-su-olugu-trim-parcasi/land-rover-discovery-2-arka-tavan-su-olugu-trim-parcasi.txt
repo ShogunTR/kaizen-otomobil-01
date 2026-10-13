@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Land Rover Discovery 2 arka tavan su oluğu trim parçası
+
+Özet:
+Bunları Land Rover Discovery 2 1998-2004 (parça no. DBC101400) aracımın bazı yağmur oluğu kaplamalarının yerine koymak için yaptım. Tüm arka parçalar hasar gördüğünden onları yeniden oluşturmaya çalıştım. Tüm parçalar sol taraf içindir, bu yüzden doğru eşdeğerleri elde etmek için bunları aynalamanız gerekir. Özellikle, angle_gutter_finish.stl, virajı geçene kadar arka yatay parçanın yerini alır.vert_gutter_finish_with_angle.stl, önceki parçaya da ihtiyacınız varsa dikey parçanın yerini alır.vert_gutter_finish muhtemelen yalnızca DBC101400'ün yerine geçmelidir;
+yine de test edemedim ve uyacağından emin değilim. Her türlü geri bildirim takdire şayandır. Orijinal parçanın şeklini elimden gelenin en iyisini yapmaya çalıştığımı, ancak tam olarak böyle görünmeyeceğini ve muhtemelen her iki tarafı da yazdırmanın daha iyi olacağını lütfen unutmayın.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Land Rover Discovery 2 arka tavan su oluğu trim parçası
+Kod / referans: DBC101400
+Katalog veya kaynak adı: Land Rover Discovery 2 arka tavan su oluğu trim parçası

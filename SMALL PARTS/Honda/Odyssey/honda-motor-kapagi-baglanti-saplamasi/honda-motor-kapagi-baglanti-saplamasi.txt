@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Honda motor kapağı bağlantı saplaması
+
+Özet:
+2010 Honda Odyssey'im motor kapağı saplamasını kaybetti. Ben de bir tane çizdim ve Ender 3v2 yazıcımda yazdırdım. Honda parça numarası: 91501-SS8-A01 Motor Kapağı Saplamasıdır ve çevrimiçi fiyatı yalnızca 2,47 ABD dolarıdır. Benimkini PLA'den yazdırdım ama bu muhtemelen uzun sürmeyecek. Muhtemelen farklı bir malzemeden yazdırmam gerekecek. denedim
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Honda motor kapağı bağlantı saplaması
+Kod / referans: 91501-SS8-A01
+Katalog veya kaynak adı: Honda motor kapağı bağlantı saplaması

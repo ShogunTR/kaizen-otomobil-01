@@ -1,0 +1,13 @@
+Kaizen Trim
+
+Audi A6 Avant / Allroad Cargo gölge düzeltmesi
+
+Özet:
+Audi A6 Avant / Allroad (MY: 1999-2005) Kargo gölgesinin geri çekilmesi sorununu çözen bu şey. Yıllarca kullanımdan sonra genellikle kargo gölgeliği şaftının tutma yayı plastik tutucusu kırılır, bu nedenle kargo gölgeliği artık geri çekilmez. Bu parça, şaftı tutmak için sağlam bir taban olacak şekilde tasarlanmıştır. Sorun hakkında bir makale ve ayrıca plastik tutucu hala yerindeyse bazı düzeltme fikirleri burada: http://www.audizine.com/forum/showthread.php/464749-DIY-Fix-a-broken-cargo-cover.Update1: Ayrıca 2 vidalı braket cadı bu "kapağı" yerinde tutuyorsa küçük bir plastik parça da yüklenmiştir, ayrıca kırılmıştır, sadece yazdırın ve yapıştırın ve yerine itin
+(düz bir yüzey elde etmek için vida deliğinin delindiğinden/temizlendiğinden emin olun)Güncelleme2: 2016 ocak. Bir yıldan fazla kullandıktan sonra parçada herhangi bir sorun yok, hala şaftı sıkı tutuyor, ayrıca -10C soğuk veya 40C sıcaklık da herhangi bir soruna neden olmuyor.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Audi A6 Avant / Allroad Cargo gölge düzeltmesi
+Kod / referans: 399921
+Model açıklamasındaki ad: Audi A6 Avant / Allroad Cargo gölge düzeltmesi
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

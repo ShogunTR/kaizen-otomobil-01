@@ -1,0 +1,15 @@
+Kaizen Trim
+
+Subaru Forester otomatik vites kilit açma kapağı
+
+Özet:
+Kapak, tapa veya ek parça, Subaru Forester'da genellikle otomatik vites değiştiricinin sol üst kısmında bulunan şanzıman serbest bırakma ünitesinin tamamı içindir. Outback'e çok benzemektedir (Parça No: 35181AG00A), ancak Outback kısmı Forester Cover Release'ın yaklaşık yarısı kadardır. Kapak Sürümü Outback için ayrı ayrı satılmaktadır ancak Subaru Forester için alabilmeniz için konsola ait vites gösterge plakasının tamamını (Parça No: 35170FG080) satın almanız gerekmektedir. Fiyatı 80 ila 125 dolar arasında değişiyor.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Subaru Forester otomatik vites kilit açma kapağı
+Kod / referans: 35170FG080
+Katalog veya kaynak adı: Subaru otomatik vites konum gösterge takımı
+Açıklama: Kod komple vites konum göstergesine aittir; mevcut model kilit açma kapağıdır.
+Kod / referans: 35181AG00A
+Model açıklamasındaki ad: 2009 Subaru Forester Kapak Yayını
+Açıklama: İnternet araştırmasında bu referansın kesin OEM karşılığı doğrulanamadı. Model açıklaması esas alındı; referans korunmuştur.

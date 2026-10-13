@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Volkswagen yağ tahliye tapası açma aparatı
+
+Özet:
+Volkwagen Golf ve Audi'deki plastik yağ tahliye tapasını sökmeye yarayan alet (#parça numarası 06L103801)
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Volkswagen yağ tahliye tapası açma aparatı
+Kod / referans: 06L103801
+Katalog veya kaynak adı: Volkswagen motor yağ karteri tahliye tapası
+Açıklama: Kod yağ tahliye tapasına aittir; mevcut model tapayı açma aletidir.

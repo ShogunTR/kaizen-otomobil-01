@@ -1,0 +1,13 @@
+Kaizen Trim
+
+klips ile VW Golf 6
+
+Özet:
+Model eksikliğinden dolayı Volkswagen Golf 6 için şimdi sizlerle paylaştığım klipslar paspasını ölçtüm (yardımınız için teşekkürler kaliperlar) ve elimden gelenin en iyisini yaparak yeniden tasarladım. Bunlar markanın diğer arabalarına/modellerine de uyabilir. Montajın orta pim deliği 10mm genişliğindedir. Orijinal parça ürün kodları 3C0-864-523 ve 3C0-864-521.Ağımın dağınık (ve ağır boyutlu) olduğunu biliyorum, ancak onu Cura ile dilimlediğimde herhangi bir çıktı sorunu olmadı ve yazdırıldıktan sonra parçalar mükemmel bir şekilde uyuyor !Şerefe !
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: klips ile VW Golf 6
+Kod / referans: 3C0-864-523
+Katalog veya kaynak adı: Volkswagen paspas sabitleme düğmesi
+Kod / referans: 3C0-864-521
+Katalog veya kaynak adı: Volkswagen paspas sabitleme kapağı

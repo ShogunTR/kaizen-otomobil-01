@@ -1,0 +1,12 @@
+Kaizen Trim
+
+BMW sol alt ön cam çıtası klipsi
+
+Özet:
+BMW Parça No. 51317306205 veya ön cam damlama eşiğinin ön ucuna giden plastik parçalar (F25 ve F26'ya uyar). Tuhaf bir şekilde, ucuz olmasına rağmen (şu anda yaklaşık 4 dolar civarında), muhtemelen mevcut olmayacak veya nakliyesi biraz zaman alacak. Resimde aslında sol eşik klips var, sadece sağın aynası. Bunlar klips soketlerine kolayca kayar; ileride çıkarılmasını kolaylaştırmak için "kıpırdamazlar". klips soketinin alt kısmındaki dişin kalınlığının ayarlanması gerekebilir ancak yerine yapıştırılmamışsa tam oturması gerekir.
+ön cam'nin tabanındaki çerçeveye şeffaf epoksi yapıştırıcıyla yuvalar yerleştirin ve aynısı eşiklerdeki klipslar için de geçerlidir. Not: Takmadan önce yeni bir fotoğraf çekmeyi unuttuğum için, kurulu iki klipslar'nin fotoğrafı ters çevrilmiştir. Bunları ters takarsanız, kapağın arka tarafında görünür bir boşluk olacağından fark edeceksiniz. Bu, yazdırmak satın almaktan daha hızlıydı - Creality Ender 3 S1 üzerinde ABS'de 0,2 mm'lik bir baskı için toplamda yaklaşık 2 saat.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW sol alt ön cam çıtası klipsi
+Kod / referans: 51317306205
+Katalog veya kaynak adı: BMW sol alt ön cam çıtası klipsi

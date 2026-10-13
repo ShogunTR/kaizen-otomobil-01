@@ -1,0 +1,13 @@
+Kaizen Trim
+
+Tesla Model S Orta Konsol
+
+Özet:
+Bu, kendi kendine yazdırılabilen bir Tesla Model S Merkez Konsoludur.  Bunu TinkerCad ile tasarladım ve MakerBot Replicator 2'de yazdırdım. filament ve sabır dışında ihtiyacınız olan tek şey bir xacto bıçağı ve biraz süper yapıştırıcı.  İçecek sahipleri Diet Coke, çeşitli su şişeleri, Tesla kahve kupası ve Amstel (!) ile test edildi. Daha büyük içecekler işe yaramayabilir.  Telefon tutucusu iPhone 5 ve iPhone 4S ile test edildi.  Daha büyük telefonlar çalışmayabilir.  Bununla ilgili sorunlarınız varsa lütfen bana bildirin; bunu geliştirmek isterim! - ve başarılısın
+bununla lütfen bana bir resim gönder!  [Güncelleme 10/13/14 ... yazdırmayı kolaylaştırmak için biraz yeniden tasarlandı.  Üst ve alt kısmı birleştirdim ve tek bir ünite olarak basılabilmesi için açılı olarak konumlandırdım.  Bu aynı zamanda bükülmeyi de büyük ölçüde azaltır ve bu açıda Tesla logosu çok daha iyi yazdırılır.  Neyse yeni dosyaları yükledim, daha önce indirdiyseniz bunlara göz atmak isteyebilirsiniz.] [Güncelleme 5/2/16 ... biraz yeniden tasarlandı; desteklernin üst kısımları güçlendirildi]
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Tesla Model S Orta Konsol
+Kod / referans: 149623
+Model açıklamasındaki ad: Tesla Model S Orta Konsol
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

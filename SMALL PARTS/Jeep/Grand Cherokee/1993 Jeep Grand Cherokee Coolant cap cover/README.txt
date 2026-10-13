@@ -1,0 +1,8 @@
+Kaizen Trim
+
+1993 Jeep Grand Cherokee Soğutucu kapatma kapağı
+
+Özet:
+1993 model bir Jeep Grand Cherokee Laredo'm var. Yaşı itibariyle bazı kırık ve eksik kısımları mevcuttur. Bu durumda kaputun altındaki soğutma sıvısı genleşme deposunun kapağının kırılmasıyla karşı karşıyaydım. 26 yaşında olduğundan üst yüzeyi çatlamış ve ayrılmıştı. Daha önce, onu bir arada tutmak için metal koli bandı kullanıyordum, bu da işe yaradı ama çirkindi. Yakında satmayı düşündüğüm için bu konuda bir şeyler yapmaya karar verdim. İpliklerle tamamen yeni bir başlık yapmayı düşündüm ama ölçümleri biraz zor olduğundan denemeye karar verdim.
+Parçaları bir arada tutmak için UV sıvı reçine kalemlerinden birini kullanarak kapağı tekrar birbirine yapıştırdı ve ardından orijinalin üzerine takılabilecek bir kozmetik kapak oluşturdu, böylece mevcut ipliklerden yararlandı. Bunu yaptım ve iki renkli baskı alabildiğim için biraz süsledim.... evet, bunun resmi Jeep yazı tipi olmadığını ve tamamen büyük harflerle yazıldığını biliyorum. Bu, siyah beyaz ABS'den bir Ultimaker ikili ekstruder S5'te üst tarafı aşağı gelecek şekilde basılmıştır.  Kaput altı ve soğutma sıvısı sıcaklığıyla ne kadar iyi çalışacaklarından emin değilim ama yapacaklarını biliyorum
+PLA'den daha iyisini yapın. Kapak ve beyaz ekler için bir dosya var. Yüzük ve harfler için girintilerin bulunduğu yalnızca kapak kısmını her zaman yazdırabilirsiniz.  Tamir edilen kapağın üzerine kapağı yapıştırmak için esnek bir yapıştırıcı kullandım. Dikkat: Bunu aracınızın kaputunun altında kullanacağınıza ve ayrıca hangi yapıştırıcıyı kullanacağınıza kendiniz karar vermelisiniz.

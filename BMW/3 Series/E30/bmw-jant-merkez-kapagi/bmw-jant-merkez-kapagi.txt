@@ -1,0 +1,13 @@
+Kaizen Trim
+
+BMW jant merkez kapağı
+
+Özet:
+BBS RZ Style 5 Center jant göbeği kapağı 15" BMW E30 Bildiğiniz gibi bu jantlar için jant göbeği kapağılar jantların kendisinden daha pahalı hale geliyor. Orijinallerinden daha güvenli ve 3d baskısı kolay olsun diye bunu yaratmaya çalıştım. Bunu tasarlamak çok çok uzun zamanımı aldı. Kendinize biraz baskı yaptıktan sonra, beğenirseniz bana bir bira ısmarlarsanız çok sevinirim. http://www.paypal.me/renglish12345 Her kapak 4 parça gerektirir: Plaka Somunu Diş Eki Ayrıca şunları gerektirir: 8x M8 cıvata 4x 68 mm BMW jant rozeti (36136783536) (arkada klipslar olması gerekir)
+Yukarıdaki resimde olduğu gibi) Diş ve Insert, tekerlekte kalacak şekilde tasarlanmıştır ve yalnızca lastikler değiştirildiğinde veya dengelendiğinde çıkarılmaları gerekir. PLA ve ABS'den prototipler yaptım ancak daha iyi hava ve sıcaklık direncine sahip olduğu için son versiyon için ASA kullanıyorum. Sert frenleme sırasında ısınacaklarını, dolayısıyla PLA ve PETG'nin uygun olmayabileceğini unutmayın. Onları boyamayı denemedim ama mümkün olmalı. Şu anda bunlar sadece 15" jantlar için ama 14" jantlar için yeniden tasarlayabilirim
+Yazdırma da herkesin yazıcısı farklı olacağından kendi ayarlarınızı yapmanız gerekecektir. Ek parçayı, plakayı ve dişi destekler olmadan ve somunu destekler ile baş aşağı yazdırıyorum. Montaj Öncelikle ek parçayı, konik tarafı dışarı bakacak şekilde tekerleğin ortasına yerleştirin. Daha sonra dişli kısmı bunun üzerine yerleştirin, delikleri hizalayın ve birbirine cıvatalayın. Sonra tabağı koy
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW jant merkez kapağı
+Kod / referans: 36136783536
+Katalog veya kaynak adı: BMW jant merkez kapağı

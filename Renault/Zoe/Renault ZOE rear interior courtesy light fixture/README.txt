@@ -1,0 +1,9 @@
+Kaizen Trim
+
+Renault ZOE arka iç tavan aydınlatma armatürü
+
+Özet:
+Renault ZOE'de beni en çok rahatsız eden şeylerden biri de arka tarafta iç tavan aydınlatmasının olmaması. Bebek gelince kafamı kaşıyordum "geceleri arka koltuğa taşıyıcıyı nasıl monte edeceğim?" Ön koltuklar, ön tavan lambalarından gelen ışığın %90'ını kaplıyor, dolayısıyla arkası tamamen karanlık. Arabayı daha ileride satmam gerekmesi durumunda ve ayrıca garanti talepleri ile ilgili herhangi bir sorun yaşamamak için geri dönüşü olmayan herhangi bir değişiklik yapmak (örneğin tavan kaplamasında bir delik açmak) istemedim, bu yüzden
+Bunu sadece arabadaki mevcut özellikleri kullanacak şekilde tasarlamaya çalıştım, bu nedenle fikir arka tutma kolunu sökmek ve teli geçirmek için mevcut deliği kullanmaktır. Bu durumda parça, tutma kolunun braket montajıyla tamamen aynı hizada olan bir yuvaya sahiptir ve taban plakası, kolun arabanın gövdesine mandallanma biçimini engellemeyecek kadar incedir. Kablonun tavan kaplamasının içinden ve armatürün iç kısmına görünmeden geçmesi için özel bir kesim yapıldı. Elektronik konusunda fazla detaya girmeyeceğim.
+Sadece, bir kapıyı açtığınızda yanması için ışığı doğrudan ön tavan lambalarına bağlamayı seçtiğimi söylemeniz yeterli; tüm kabloları tavan kaplamasının üzerinden gözden tamamen gizlenecek şekilde geçiriyorum. Ayrıca delik standart 1W LED'e göre boyutlandırılmıştır. Eğer böyle bir şey yapacaksanız zaten ne yaptığınızı bilmelisiniz - arabadaki elektroniklerin gerçekten doğru yapılması gerekiyor. Parçanın kendisine gelince, araba ile ilgili tüm şeyler için yaptığım gibi ABS ile baskı yaptım, 0,1 mm katman yüksekliği, %30 dolgu. yapamadım
+Parçayı, yapısal güçten ödün vermeden destekler olmadan basılmasına olanak tanıyacak şekilde tasarlayın. Bu model sağ taraf içindir, ancak karşı tarafa gitmek için dilimleyicinize kolaylıkla yansıtılabilir.

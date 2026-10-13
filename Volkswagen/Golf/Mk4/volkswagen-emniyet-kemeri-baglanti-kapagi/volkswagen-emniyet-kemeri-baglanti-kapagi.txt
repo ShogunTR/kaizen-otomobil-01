@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Volkswagen emniyet kemeri bağlantı kapağı
+
+Özet:
+Arabam bir kaç emniyet kemeri kapağı eksik geldi, artık yedek parça tasarlayacak kadar canımı sıkan noktaya geldi. Orijinal parçanın VIN OEM numarası 1J0857719'dur. Arabanızdaki her şeyde olduğu gibi bunu da PLA'ye yazdırmayın, çünkü yaz aylarında hava PLA'nin hayatta kalamayacağı kadar sıcak olur. Ben şahsen PETG'yi öneriyorum, ancak istediğiniz filament tipini kullanın. Bu parça destek olmadan, baskı tablası üzerinde VW logosu aşağıya bakacak şekilde yazdırılabilir. (köprülemenizin yerinde olduğundan emin olun, aksi takdirde tıklamayabilir
+düzgün bir şekilde yerine yerleştirin).
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Volkswagen emniyet kemeri bağlantı kapağı
+Kod / referans: 1J0857719
+Katalog veya kaynak adı: Volkswagen emniyet kemeri bağlantı kapağı

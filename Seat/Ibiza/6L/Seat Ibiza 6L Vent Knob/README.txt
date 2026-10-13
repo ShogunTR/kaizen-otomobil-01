@@ -1,0 +1,9 @@
+Kaizen Trim
+
+Seat Ibiza 6L Havalandırma Düğmesi
+
+Özet:
+Araba gitti :( Bu daha fazla geliştirilmeyecek, düzenleyin, remiksleyin, daha iyi hale getirmek için ne istiyorsanız onu yapın. Saygılarımızla Not: 'tapered.stl' dosyasını kullanın - 'Final' değildi! Gerektiğinde kurcalamanız size bırakıldı. EDIT: 23/4/2018 - Yerleştirme parçasını konik bir tasarımla değiştirdik (.stl'de 'Konik' yazıyor), bunun daha rahat bir uyum sağlaması GEREKLİ - ben şimdi yazdırana kadar bunu denemeyi bırakın. Bizi izlemeye devam edin. . . . . DÜZENLEMEK: 23/4/2018 - Evet, ÇOK daha iyi uyuyor, güvenli bir şekilde yerleştirilmiş hissi veriyor ve artık arabanın üzerinde.İndirin, yazdırın, yükleyin, keyfini çıkarın!DÜZENLEME: 22/4/2018 -
+Stl'yi yeni güncelledim, garip bir şekilde dosyayı zaten Fusion360'tan çıkardım ancak küçük bir hata yaptım - 'dış tutma çıkıntılarının' etrafına 'ekstra et' eklenmesi modelin geri kalanıyla birleştirilmemiş. Temel olarak önceki versiyondan farklı değildi! :(Ayrıca, bu versiyonun ön tarafında biraz daha sığ çukurlar var - kabuğa doğru kırılıyorlardı ve ilk fotoğrafta delikler görebiliyorsunuz. Bu artık düzeltildi.Umarım bu versiyon biraz daha sıkı bir şekilde yerleşir, sonuncusu takılmıştır ancak havalandırma deliğine yeterince tutunmamıştır.
+iyi bir sıcak hava üfleseydi düşecekti. Bunun devam eden bir çalışma olduğu söyleniyor. . . . . . . Sırf bunu tasarlamaya karar verdim.Orada oturdum, sıkıldım, Wurth sistemimin tanılamayı bitirmesini bekledim ve kurcalamaya başladım!Tam önümde bir havalandırma deliği var - oynamaya başlıyorum ve sonra ön tarafındaki düğmeyi çıkarmaya karar veriyorum!Orada elimde dururken 'Bunu Fusion360'ta tasarlamak iyi bir pratik olabilir' diye düşündüm. . . . . . . . ben de yaptım! PLA kullandım, sıcakta bu kadar iyi performans göstermesini beklemiyorum
+ama biraz eğlenceli, beyaz veya kırmızı düğmeler iç mekanın geri kalanına karşı gerçekten çarpıcı görünüyor. Keyfini çıkarın!

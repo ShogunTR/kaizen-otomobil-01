@@ -1,0 +1,9 @@
+Kaizen Trim
+
+10mm Otomotiv Gövde Trim Perçin
+
+Özet:
+Bir sürü kırık perçin dişim vardı, bazı erkek perçinlerim eksikti ve yerel mağazalar kapandıktan sonra gece geç saatlerde bir araba tamirini bitirmem gerekiyordu. Bu yüzden, trim panellerini yeniden monte edebilmek için perçinin her iki parçasını da modellemeye karar verdim. Bu, 2016 Subaru'daki perçinlerin neredeyse tam bir kopyasıdır, ancak 10 mm (3/8") bağlantı elemanı gerektiren tüm otomobillerde işe yarayacaktır. Bu parçalar, otomobille birlikte gelen muadilleriyle birbirinin yerine kullanılabilir. GÜNCELLEME: bunun 3 dişli bir versiyonu oluşturuldu. Tam olarak aynı modele dayanıyor ve daha güçlü çünkü
+her dişin tabanla daha büyük bir bağlantısı vardır. Dik olarak yazdırmak daha kolaydır, ancak gücü kaybolacak ve katmandan katmana bağlanma gücüne bağlı olarak dişler kolayca kırılacaktır. destek yapılarını kişiselleştirme yeteneği için Simplify3D kullanıyorum. Dişi kısım 45 derece döndürülerek daha iyi yazdırılıyor gibi görünüyor, böylece iki taraf
+dişlerin kenarları yatağa paraleldir ve başlığın dar kısmı sala/yatağa temas eder.  destek ile görüntüye bakın ve kafanın yatak/sal ile nereye temas ettiğini görün. Ayrıca 0,1 mm/katmanda yazdırmanın verimsiz olduğu ve 1,5 mm veya daha kalın olanın daha iyi olduğu görülüyor.  Bu parça, kafa diski özelliğinin dar kenarını sabitlemek için altında bir sal ile daha güvenilir bir şekilde baskı yapar. Erkek kısmı, kafası yatağa dönük olarak yukarı bakacak şekilde daha iyi baskı yapar gibi görünmektedir. Deney bana bu parçanın destek gerektirmediğini ve gösterilen resimleri değiştireceğimi söyledi
+Boş bir zamanım olduğunda destek.   O kadar kalın ve kritik değil ki, yazdırma yönü bir sorun DEĞİLDİR. Bunların en güzel versiyonunu yazdırmak için ikisini de yukarı bakacak şekilde yazdırdım. Kesinlikle mükemmel görünüyorlar ve hissediyorlar, ancak dişi versiyonu dişlerin tabanla buluştuğu yerden hızla kırılıyor. Geçenlerde bana söylendi

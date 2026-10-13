@@ -1,0 +1,15 @@
+Kaizen Trim
+
+Mitsubishi koltuk ısıtma düğme paneli
+
+Özet:
+Mitsubishi Pajero IO veya Pinin için koltuk ısıtma düğme paneli. Montaj delikleri Mitsubishi 8610A076 veya 8610A044 anahtarları içindir
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Mitsubishi koltuk ısıtma düğme paneli
+Kod / referans: 8610A076
+Katalog veya kaynak adı: Mitsubishi koltuk ısıtma anahtarı
+Açıklama: Kod koltuk ısıtma anahtarına aittir; mevcut model bunun için düğme panelidir.
+Kod / referans: 8610A044
+Katalog veya kaynak adı: Mitsubishi koltuk ısıtma anahtarı
+Açıklama: Kod koltuk ısıtma anahtarına aittir; mevcut model bunun için düğme panelidir.

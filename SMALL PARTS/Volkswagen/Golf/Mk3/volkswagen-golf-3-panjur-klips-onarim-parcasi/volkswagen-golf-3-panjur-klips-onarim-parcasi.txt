@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Volkswagen Golf 3 panjur klips onarım parçası
+
+Özet:
+Bu tasarımla oldukça sık görülen kırık klips sorununu MK3 ön ızgara (1HG6853655, 1H6853653C) ile çözebileceksiniz. Yüzeyi düzeltmek için katmanları mutlaka havya ile zımparalamanız veya ütülemeniz gerekiyor. Modelde ekstra düşünce var çünkü 0.2mm katman ve ASA'yi baskı için kullandım. ızgara de ASA'den yapılmıştır ancak ABS de gayet iyi iş görür.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Volkswagen Golf 3 panjur klips onarım parçası
+Kod / referans: 1H6853653C
+Katalog veya kaynak adı: Volkswagen Golf 3 ön panjuru
+Açıklama: Kod komple ön panjura aittir; mevcut model panjur klipsi onarım parçasıdır.

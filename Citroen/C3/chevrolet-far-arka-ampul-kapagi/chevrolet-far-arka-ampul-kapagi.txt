@@ -1,0 +1,18 @@
+Kaizen Trim
+
+Chevrolet far arka ampul kapağı
+
+Özet:
+OEM Çapraz Referanslar: Otomotiv Aydınlatma 43920749 | General Motors GM 94706511Bu, far toz kapağının derin/uzatılmış versiyonudur ve büyük soğutma fanları veya soğutuculara sahip satış sonrası LED ampuller için ekstra boşluk sağlayacak şekilde özel olarak modifiye edilmiştir. OEM Otomotiv Aydınlatma (AL) 43920749 parçasını temel alır (genellikle Chevrolet TrailBlazer 2, Chevrolet Colorado, Chevrolet Aveo (T300), Chevrolet Sonic, Chevrolet Agile, Chevrolet Montana, Holden Colorado, Holden Colorado 7, GMC Canyon, Peugeot 206, Peugeot 206+, Peugeot'da bulunur
+207, Citroen C3, Fiat Punto, Fiat Grande Punto, Fiat Palio, Fiat Siena, Fiat Palio Weekend, Volkswagen Polo ve diğerleri).Stok halojen ampullerinizi LED'e yükselttiyseniz ve orijinal plastik kapağın kapanmadığını fark ettiyseniz, bu model tam olarak ihtiyacınız olan şeydir. far düzeneğinizin toz ve nemden sızdırmaz ve güvenli kalmasını sağlamak için gövdeyi dışarı doğru uzatırken fabrika bayonet kilitleme mekanizmasını korur. Tam bir uyum sağlamak için orijinal OEM kapağınızdaki kauçuk sızdırmazlık contasını bu baskılı parçaya aktarmayı unutmayın.
+hava geçirmez uyum.filament Malzeme: PETG, ABS veya ASA. PLA'yi KULLANMAYIN! LED ampuller ve motor bölmesi sıcaklıkları, PLA plastiğini kolaylıkla eritebilir veya deforme edebilir. destekler: Evet (Yalnızca kilitleme bayonet tırnakları için) Bu, far bagajının derin/uzun versiyonudur. Büyük fanlara veya radyatörlere sahip standart dışı ışık yayan diyot (LED) lambalar için ek alan yaratmak üzere tasarlanmıştır. Model, orijinal parça (OEM) Otomotiv Aydınlatma (AL) 43920749'u (genellikle Chevrolet'te bulunur) temel alır.
+TrailBlazer 2, Chevrolet Colorado, Chevrolet Aveo (T300), Chevrolet Sonic, Chevrolet Agile, Chevrolet Montana, Holden Colorado, Holden Colorado 7, GMC Canyon, Peugeot 206, Peugeot 206+, Peugeot 207, Citroen C3, Fiat Punto, Fiat Grande Punto, Fiat Palio, Fiat Siena, Fiat Palio Weekend, Volkswagen Polo ve diğer arabalar). Stok halojen ampullerinizi LED ampullerle değiştirdiyseniz ve orijinal plastik kapağın kapanmadığını gördüyseniz bu model tam ihtiyacınız olan şeydir. Fabrika süngü montajını korur ancak artar
+vücut dışa doğru. Bu, farın sıkılığını korumanıza ve onu toz ve nemden korumanıza olanak tanır. Tam sızdırmazlık sağlamak için lastik contayı orijinal kapaktan baskılı parçaya taşımayı unutmayın. Filament malzemesi: PETG, ABS veya ASA. PLA'yi KULLANMAYIN! LED lambalar ve motor bölmesindeki sıcaklık, PLA plastiğini kolayca eritecek veya deforme edecektir. Destekler: Evet (yalnızca bayonet kilit çıkıntıları için).
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Chevrolet far arka ampul kapağı
+Kod / referans: 94706511
+Katalog veya kaynak adı: Chevrolet far arka ampul kapağı
+Kod / referans: 43920749
+Model açıklamasındaki ad: LED için genişletilmiş far Toz Kapağı (AL 43920749 / GM 94706511)
+Açıklama: İnternet araştırmasında bu referansın kesin OEM karşılığı doğrulanamadı. Model açıklaması esas alındı; referans korunmuştur.

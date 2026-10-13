@@ -1,0 +1,8 @@
+Kaizen Trim
+
+1999-2005 VW Golf/Jetta MK4 Tavan Rafı Ray Uç Kapakları
+
+Özet:
+Oğlum, 2003 VW Jetta'sı için bir hurdalıktan bir çift orijinal ekipman tavan bagajı almayı başardı, ancak bunların uç kapakları yoktu.  Benden kendisi için 3 boyutlu basılabilecek bir set tasarlamamı istedi, ben de bunu buldum.  Bunlar aynı zamanda Amazon'da bulduğum bir dizi kilit silindirini de kullanıyor.  Hiçbir zaman orijinal ekipman uç kapaklarını çıkarmam gerekmedi, bu yüzden bunları kesinlikle elimde bulunan raylar ile sıfırdan tasarladım. Kapağın kaydırıldığını ve yerine kilitlemek için anahtarlı silindirin kullanımını gösteren kısa bir videoyu burada bulabilirsiniz: https://youtu.be/gNnbCHxs3noI, bir
+PLA kullanarak prototip oluşturabilirsiniz, ancak üretim için muhtemelen ABS gibi bir şey kullanmak istersiniz.  Bunu yapmama izin verecek bir düzenim yok, bu yüzden bir arkadaşımın bunu bizim için yapıp yapamayacağını göreceğim.  Sertlik sağlamak için %100 dolguye yaklaşmanızı öneririm - bu yoğunlukta, her uç kapak düzeneği yaklaşık 90 g filament kullanacaktır (yani 4'lü bir set yazdırdığınızı varsayarsak, bu yaklaşık 400 g demektir). "Alt" kısmı yazdırmanın en iyi şekilde yatağa yapışması için geniş bir kenarlı ve destekler (Ağaç kullanarak) ile yapıldığını buldum. destekler çalıştı
+benim için iyi).  Kılavuz çubuk ve "üst" kısım, destekler olmadan, sağlandığı şekilde yazdırılabilir.  Yayları mümkün olduğu kadar "düzleştirmek" için 0,12 mm katman yüksekliğilar'yi hedefledim, ancak katman yüksekliği'nin size anlamlı geldiğini kullanabilirsiniz.  Kılavuz çubuğu sadece üst kısma oturacak ve sabitlenecek şekilde tasarlanmıştır

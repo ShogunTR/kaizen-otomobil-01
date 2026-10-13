@@ -1,0 +1,13 @@
+Kaizen Trim
+
+Fiat Alfa Romeo kaput destek çubuğu tutucusu
+
+Özet:
+Bu bileşen, orijinal başlık tutucusunun (malzeme numarası 7622907 / 60810130) arızalı olması durumunda yedek olarak kullanılır. Şekil üretim için değiştirildi. PLA'ye 0,2 kat kalınlığında destek yapılı olarak bastım.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Fiat Alfa Romeo kaput destek çubuğu tutucusu
+Kod / referans: 7622907
+Katalog veya kaynak adı: Fiat Alfa Romeo kaput destek çubuğu tutucusu
+Kod / referans: 60810130
+Katalog veya kaynak adı: Fiat Alfa Romeo kaput destek çubuğu tutucusu

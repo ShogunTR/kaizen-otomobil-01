@@ -1,0 +1,11 @@
+Kaizen Trim
+
+BMW ön amortisör üst kapatma kapağı
+
+Özet:
+Bu, birinci nesil BMW X3 için özel olarak boyutlandırılmış bir dikme kapağıdır, parça numarası 31311139453. Motor bölmesindeki ön payandaların hemen üzerine oturan ve bir şekilde kaybolmayı başaran yuvarlak kauçuk tapadır. Bu yedek parça, mükemmel bir uyumdan daha işlevseldir, ancak çalışır ve payanda takozunun üst kısmındaki tozu ve kiri tutar. PLA ile yazdırdım, üzgünüm, kurulu ünitenin resmi yok.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW ön amortisör üst kapatma kapağı
+Kod / referans: 31311139453
+Katalog veya kaynak adı: BMW ön amortisör üst kapatma kapağı

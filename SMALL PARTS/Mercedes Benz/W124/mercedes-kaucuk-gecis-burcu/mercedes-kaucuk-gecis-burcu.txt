@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Mercedes kauçuk geçiş burcu
+
+Özet:
+Bu, SLS arka süspansiyonlu W124 emlak/vagon modellerinde bulunan A1299971681: "Yağ altında Grommet hazne" MB parça numarasının doğrudan yerine geçer. SLS yağı hazneyi şasiye monte eder. Birincil STL orijinalinden daha sıkı bir oturuşa sahiptir. Daha gevşek bir uyum istiyorsanız STL'nin "Alt" versiyonunu kullanın.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Mercedes kauçuk geçiş burcu
+Kod / referans: A1299971681
+Katalog veya kaynak adı: Mercedes kauçuk geçiş burcu

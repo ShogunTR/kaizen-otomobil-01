@@ -1,0 +1,13 @@
+Kaizen Trim
+
+SİS IŞIĞI - Chrysler PT Cruiser
+
+Özet:
+PT Cruiser'ımın arka sis farı küçük bir çarpışma sırasında mahvoldu. Işığın dışını yazdırdım. Kırmızı yarı saydam PLA filament kullandım. Işığın geçirgenliği orijinaline göre biraz daha az ama yine de arabanın arka farlarına göre çok daha parlak olduğundan sis farı işlevi verilmiş.   Bu kısım lambanın sadece dış kısmıdır, lambanın şasesine yapıştırmanız gerekmektedir. Tutkal kuruduktan sonra ışığı su geçirmez hale getirmek için silikon da kullandım.  200 dolar tasarruf ettim :) eğer biri aynı sorunu yaşıyorsa,
+belki bu ucuz çözüm size yardımcı olacaktır.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: SİS IŞIĞI - Chrysler PT Cruiser
+Kod / referans: 566525
+Model açıklamasındaki ad: SİS IŞIĞI - Chrysler PT Cruiser
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

@@ -1,0 +1,16 @@
+Kaizen Trim
+
+Mazda tavan su oluğu kapağı
+
+Özet:
+Muhtemelen buna ihtiyacı olan çok fazla insan yoktur ama ben yaptım, o yüzden paylaşayım dedim.  Bu, Mazda parça numarası GJ6A505A1 (Kapak, Damlama Kalıplama) için yedek parçadır. Bu, birçok son model Mazda aracının tavanındaki vida deliklerini kapatan küçük kapaktır. Tavan rafını taktıktan sonra 2012 Mazda 5'imle birlikte gelenleri kaybettim, bu yüzden bazı yedek parçaların çıktısını almak zorunda kaldım. Araç başına dört adet gereklidir. Daha sonra daha kolay çıkarılabilmesi için orijinallerine göre daha az çaba harcayarak yerine kayarlar. Fabrikadakiler oldukça dardı.
+STL'de galeri fotoğraflarında yansıtılmayan bir değişiklik, çıkarma yönünü gösteren küçük girintili bir oktur.   Bu, OEM parçasının tam bir kopyası değil, bunu internette bulduğum resimlere ve Mazda'mın tavanındaki deliklerden alınan ölçümlere dayanarak modelledim.  Jim Ellis Mazda Parts'a göre parça şu arabalara uymalıdır:Mazda CX-7 2010, 2011, 2012Mazda CX-9 2010, 2011, 2012, 2013Mazda Mazda 2 2011, 2012, 2013Mazda Mazda 3 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013Mazda Mazda 5 2006, 2007,
+2008, 2009, 2010, 2012, 2013 Mazda Mazda 6 2014
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Mazda tavan su oluğu kapağı
+Kod / referans: GJ6A505A1
+Katalog veya kaynak adı: Mazda tavan su oluğu kapağı
+Kod / referans: 217470
+Model açıklamasındaki ad: Mazda tavan su oluğu kapağı
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

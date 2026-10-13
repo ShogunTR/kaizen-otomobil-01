@@ -1,0 +1,15 @@
+Kaizen Trim
+
+Opel Corsa B Tigra A bagaj pandizot yatak klipsi
+
+Özet:
+Bu, Opel Corsa-B ve Tigra-A'nın arka Parsel Raf Rulmanı klipsnin yerine geçer. Fotoğraflarda gördüğünüz gibi orijinal kısmı (sol tarafta) kopmuş. Bu yüzden o parçayı biraz daha güçlü hale getirmek için yeniden tasarladım ve zaten kaybettiğim için yaylı metal levhayı da korudum. Her iki yatağı da burada stl dosyaları olarak bulacaksınız. Tam Yasal Uyarı: Sadece sağ tarafı (yolcu tarafı) yazdırdım ancak orijinal parçalar sadece aynalı olduğundan sol tarafın (sürücü tarafı) neden sığmadığını anlamıyorum.Orijinalini bulamadım
+Parçalar satın alınabilecek her yerde. Eksiksiz olması açısından bunlar orijinal parça numaralarıdır: corsa_parcel_shelf_bearing_left_GM90388235.stl:GM 90388235driver sidecorsa_parcel_shelf_bearing_right_GM90388236.stl:GM 90388236yolcu tarafı Ayrıca STEP ve Fusion360'ı da sağlayabilirim Bu parçaları, çok kırılgan olmayan ve yeterli miktarda esnekliğe sahip, güçlü ve sert bir malzemeyle yazdırdığınızdan emin olun. Sanırım herhangi bir kaliteli ASA, ABS veya PC kesinlikle işi görecektir.
+PET-G de işe yarayabilir. PLA hakkında kişisel olarak emin değilim. Ancak bir şans verebilir ve diğer üreticilerin deneyiminizden faydalanması için rapor verebilirsiniz :) 0,2 mm çözünürlükte %75 dolgulu, 1,2 mm çevre, 1 mm üst/alt kabuk ile Filamentum ASA Extrafill kullandım. Parçalar dosyalarda yönlendirildikleri şekilde yazdırıldı (destekler ile). Bu şekilde, rulmana/klips oturan şaftın harekete geçirme kuvveti katman yönelimi ile yayılır ve dolayısıyla katman yapışması, bu baskıda çok fazla dikkate almamız gereken bir şey değildir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Opel Corsa B Tigra A bagaj pandizot yatak klipsi
+Kod / referans: 90388235
+Katalog veya kaynak adı: Opel Corsa B Tigra A bagaj pandizot yatak klipsi
+Kod / referans: 90388236
+Katalog veya kaynak adı: Opel Corsa B Tigra A bagaj pandizot yatak klipsi

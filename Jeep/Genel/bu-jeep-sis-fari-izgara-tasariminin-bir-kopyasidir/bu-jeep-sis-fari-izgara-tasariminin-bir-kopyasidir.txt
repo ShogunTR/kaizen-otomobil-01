@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Bu, Jeep Sis farı ızgara tasarımının bir kopyasıdır
+
+Özet:
+Bu kısım test edilmemiştir
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Bu, Jeep Sis farı ızgara tasarımının bir kopyasıdır
+Kod / referans: 247733
+Model açıklamasındaki ad: Bu, Jeep Sis farı ızgara tasarımının bir kopyasıdır
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.
